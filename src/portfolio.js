@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Lahcen Ezzara's Portfolio",
+  title: "Ibrahim Salah's Portfolio",
   description:
     "Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca | Python Enthusiast.",
   og: {
@@ -19,8 +19,8 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Lahcen EZZARA",
-  logo_name: "LahcenEzzara",
+  title: "Salah Ibrahim",
+  logo_name: "IbrahimSalah",
   nickname: "",
   subTitle:
     "Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca.",

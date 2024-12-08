@@ -362,53 +362,54 @@
           description:
             "Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca | Python Enthusiast.",
           og: {
-            title: "Lahcen Ezzara's Portfolio",
+            title: "Ibrahim Salah's Portfolio",
             type: "website",
-            url: "https://LahcenEzzara.github.io",
+            url: "https://salahibra.github.io",
           },
         },
         f = "Lahcen EZZARA",
         b = "LahcenEzzara",
         C = "",
         E =
-          "Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca | Python Enthusiast.",
-        y = "/lahcen_ezzara_cv.pdf",
-        v = "https://github.com/LahcenEzzara/LahcenEzzara.github.io",
-        w = "https://github.com/LahcenEzzara",
+          "Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca.",
+        y =
+          "https://drive.google.com/file/d/1TWF96CCjZDHXyDMQd_KwRcU4y9TR3yUV/view?usp=sharing",
+        v = "https://github.com/salahibra/salahibra.github.io",
+        w = "https://github.com/salahibra",
         x = [
           {
             name: "Github",
-            link: "https://github.com/LahcenEzzara",
+            link: "https://github.com/salahibra",
             fontAwesomeIcon: "fa-github",
             backgroundColor: "#181717",
           },
           {
             name: "Gmail",
-            link: "mailto:ezzara.lahcen@gmail.com",
+            link: "mailto:ibrahimsalahzefri75@gmail.com",
             fontAwesomeIcon: "fas fa-envelope",
             backgroundColor: "#D14836",
           },
           {
             name: "LinkedIn",
-            link: "https://www.linkedin.com/in/lahcenezzara",
+            link: "https://www.linkedin.com/in/salahibra/",
             fontAwesomeIcon: "fa-linkedin-in",
             backgroundColor: "#0077B5",
           },
           {
             name: "YouTube",
-            link: "https://www.youtube.com/@LahcenEzzara",
+            link: "https://www.youtube.com/@IBRAHIMSALAH-n9b",
             fontAwesomeIcon: "fa-youtube",
             backgroundColor: "#FF0000",
           },
           {
             name: "X-Twitter",
-            link: "https://twitter.com/LahcenEzzara",
+            link: "https://x.com/salahibrhm",
             fontAwesomeIcon: "fa-x-twitter",
             backgroundColor: "#000000",
           },
           {
             name: "Facebook",
-            link: "https://web.facebook.com/profile.php?id=61556601060264",
+            link: "https://web.facebook.com/profile.php?id=100069437842759",
             fontAwesomeIcon: "fa-facebook-f",
             backgroundColor: "#1877F2",
           },
@@ -787,14 +788,14 @@
           description:
             "I am available on almost every social media. You can message me, I will reply within 24 hours.",
         },
-        z = {
+        O = {
           title: "Blogs",
           subtitle:
             "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
           link: "/",
           avatar_image_path: "blogs_image.svg",
         },
-        O = {
+        z = {
           title: "Address",
           subtitle:
             "ENSAM Casablanca, 150 Bd du Nil, Casablanca 20670, Prefecture of Casablanca, Casablanca-Settat, Morocco.",
@@ -854,14 +855,14 @@
           address: {
             "@type": "PostalAddress",
             addressLocality:
-              null === (o = O) || void 0 === o ? void 0 : o.locality,
-            addressRegion: null === (n = O) || void 0 === n ? void 0 : n.region,
+              null === (o = z) || void 0 === o ? void 0 : o.locality,
+            addressRegion: null === (n = z) || void 0 === n ? void 0 : n.region,
             addressCountry:
-              null === (i = O) || void 0 === i ? void 0 : i.country,
+              null === (i = z) || void 0 === i ? void 0 : i.country,
             postalCode:
-              null === (c = O) || void 0 === c ? void 0 : c.postalCode,
+              null === (c = z) || void 0 === c ? void 0 : c.postalCode,
             streetAddress:
-              null === (m = O) || void 0 === m ? void 0 : m.streetAddress,
+              null === (m = z) || void 0 === m ? void 0 : m.streetAddress,
           },
           hasCredential: E,
         };
@@ -907,7 +908,7 @@
         L = (e) => {
           e.target.style.backgroundColor = "transparent";
         };
-      class _ extends r.Component {
+      class I extends r.Component {
         render() {
           const e = this.props.theme,
             t = p ? "/splash" : "home";
@@ -1031,13 +1032,13 @@
           );
         }
       }
-      var I,
-        j = _,
+      var _,
+        j = I,
         Q = (a(116), a(40)),
         V = (a(117), a(21));
-      const P = V.c.span(
-        I ||
-          (I = Object(Q.a)([
+      const q = V.c.span(
+        _ ||
+          (_ = Object(Q.a)([
             "\n  i {\n    background-color: ",
             ";\n  }\n  &:hover i {\n    background-color: ",
             ";\n    transition: 0.3s ease-in;\n  }\n",
@@ -1048,7 +1049,7 @@
           return t.text;
         }
       );
-      function q(e) {
+      function P(e) {
         return s.a.createElement(
           "div",
           { className: "social-media-div" },
@@ -1063,7 +1064,7 @@
                 rel: "noopener noreferrer",
               },
               s.a.createElement(
-                P,
+                q,
                 Object.assign({}, t, e),
                 s.a.createElement("i", {
                   className: "fab ".concat(t.fontAwesomeIcon),
@@ -1509,8 +1510,8 @@
           );
         }
       }
-      var J = Y;
-      function K(e) {
+      var K = Y;
+      function J(e) {
         const t = e.theme;
         return s.a.createElement(
           u.Fade,
@@ -1551,7 +1552,7 @@
                     },
                     E
                   ),
-                  s.a.createElement(q, { theme: t }),
+                  s.a.createElement(P, { theme: t }),
                   s.a.createElement(
                     "div",
                     { className: "portfolio-repo-btn-div" },
@@ -1568,7 +1569,7 @@
               s.a.createElement(
                 "div",
                 { className: "greeting-image-div" },
-                s.a.createElement(J, { theme: t })
+                s.a.createElement(K, { theme: t })
               )
             )
           )
@@ -4017,7 +4018,7 @@
             "div",
             null,
             s.a.createElement(j, { theme: this.props.theme }),
-            s.a.createElement(K, { theme: this.props.theme }),
+            s.a.createElement(J, { theme: this.props.theme }),
             s.a.createElement(me, { theme: this.props.theme }),
             s.a.createElement(he, { theme: this.props.theme }),
             s.a.createElement(de, { theme: this.props.theme })
@@ -5078,8 +5079,8 @@
         }
       }
       var Be = Fe,
-        ze = (a(152), a(286)),
-        Oe = a(284);
+        Oe = (a(152), a(286)),
+        ze = a(284);
       class He extends r.Component {
         render() {
           const e = this.props.theme;
@@ -5087,11 +5088,11 @@
             "div",
             { className: "experience-accord" },
             s.a.createElement(
-              ze.a,
+              Oe.a,
               null,
               this.props.sections.map((t) =>
                 s.a.createElement(
-                  Oe.a,
+                  ze.a,
                   {
                     className: "accord-panel",
                     title: t.title,
@@ -5627,15 +5628,15 @@
         }
       }
       var Le = Xe,
-        _e = a(41),
-        Ie = (a(249), a(25));
+        Ie = a(41),
+        _e = (a(249), a(25));
       class je extends r.Component {
         render() {
           const e = {
             labels: ["Open", "Merged", "Closed"],
             datasets: [
               {
-                data: [Ie.open, Ie.merged, Ie.closed],
+                data: [_e.open, _e.merged, _e.closed],
                 backgroundColor: ["#28a745", "#6f42c1", "#d73a49"],
                 hoverBackgroundColor: ["#28a745dd", "#6f42c1dd", "#d73a49dd"],
               },
@@ -5653,7 +5654,7 @@
                 "Pull Request Distribution"
               )
             ),
-            s.a.createElement(_e.Doughnut, {
+            s.a.createElement(Ie.Doughnut, {
               data: e,
               options: {
                 padding: "0",
@@ -5668,7 +5669,7 @@
       }
       var Qe = je,
         Ve = (a(250), a(31));
-      class Pe extends r.Component {
+      class qe extends r.Component {
         render() {
           const e = {
             labels: ["Open", "Closed"],
@@ -5692,7 +5693,7 @@
                 "Issue Distribution"
               )
             ),
-            s.a.createElement(_e.Doughnut, {
+            s.a.createElement(Ie.Doughnut, {
               data: e,
               options: {
                 margin: "0",
@@ -5705,7 +5706,7 @@
           );
         }
       }
-      var qe = Pe;
+      var Pe = qe;
       a(251);
       class We extends r.Component {
         render() {
@@ -5730,14 +5731,14 @@
               "div",
               { className: "os-charts-body-div" },
               s.a.createElement(Qe, null),
-              s.a.createElement(qe, null)
+              s.a.createElement(Pe, null)
             )
           );
         }
       }
       var Ye = We;
       a(252), a(253);
-      class Je extends r.Component {
+      class Ke extends r.Component {
         render() {
           return s.a.createElement(
             "div",
@@ -5777,7 +5778,7 @@
           );
         }
       }
-      var Ke = Je,
+      var Je = Ke,
         $e = a(89);
       class et extends r.Component {
         render() {
@@ -5801,7 +5802,7 @@
                 )
               )
             ),
-            s.a.createElement(Ke, { logos: $e.data })
+            s.a.createElement(Je, { logos: $e.data })
           );
         }
       }
@@ -6006,7 +6007,7 @@
             s.a.createElement(
               "div",
               { className: "pull-request-body-div" },
-              Ie.data.map((e) => s.a.createElement(rt, { pullRequest: e }))
+              _e.data.map((e) => s.a.createElement(rt, { pullRequest: e }))
             )
           );
         }
@@ -6751,8 +6752,8 @@
       }
       a(259);
       const pt = B,
-        gt = z,
-        ft = O,
+        gt = O,
+        ft = z,
         bt = H;
       class Ct extends r.Component {
         render() {
@@ -6797,7 +6798,7 @@
                       },
                       pt.description
                     ),
-                    s.a.createElement(q, { theme: e }),
+                    s.a.createElement(P, { theme: e }),
                     s.a.createElement(
                       "div",
                       { className: "resume-btn-div" },
@@ -8085,4 +8086,4 @@
   ]),
   [[92, 1, 2]],
 ]);
-//# sourceMappingURL=main.6173daab.chunk.js.map
+//# sourceMappingURL=main.af5803e3.chunk.js.map
