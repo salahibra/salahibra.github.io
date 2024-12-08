@@ -11,9 +11,9 @@ const seo = {
   description:
     "Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca | Python Enthusiast.",
   og: {
-    title: "Lahcen Ezzara's Portfolio",
+    title: "Ibrahim Salah's Portfolio",
     type: "website",
-    url: "https://LahcenEzzara.github.io",
+    url: "https://salahibra.github.io",
   },
 };
 
@@ -23,11 +23,11 @@ const greeting = {
   logo_name: "LahcenEzzara",
   nickname: "",
   subTitle:
-    "Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca | Python Enthusiast.",
-  resumeLink: "/lahcen_ezzara_cv.pdf",
-  portfolio_repository:
-    "https://github.com/LahcenEzzara/LahcenEzzara.github.io",
-  githubProfile: "https://github.com/LahcenEzzara",
+    "Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca.",
+  resumeLink:
+    "https://drive.google.com/file/d/1TWF96CCjZDHXyDMQd_KwRcU4y9TR3yUV/view?usp=sharing",
+  portfolio_repository: "https://github.com/salahibra/salahibra.github.io",
+  githubProfile: "https://github.com/salahibra",
 };
 
 const socialMediaLinks = [
@@ -42,37 +42,37 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/LahcenEzzara",
+    link: "https://github.com/salahibra",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "Gmail",
-    link: "mailto:ezzara.lahcen@gmail.com",
+    link: "mailto:ibrahimsalahzefri75@gmail.com",
     fontAwesomeIcon: "fas fa-envelope", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/lahcenezzara",
+    link: "https://www.linkedin.com/in/salahibra/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "YouTube",
-    link: "https://www.youtube.com/@LahcenEzzara",
+    link: "https://www.youtube.com/@IBRAHIMSALAH-n9b",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "X-Twitter",
-    link: "https://twitter.com/LahcenEzzara",
+    link: "https://x.com/salahibrhm",
     fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
     backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
   },
   {
     name: "Facebook",
-    link: "https://web.facebook.com/profile.php?id=61556601060264",
+    link: "https://web.facebook.com/profile.php?id=100069437842759",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
