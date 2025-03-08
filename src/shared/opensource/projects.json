@@ -2,32 +2,36 @@
   "data": [
     {
       "id": "737649245",
-      "name": "TeeChroma",
-      "createdAt": "2023-12-31T23:07:50Z",
-      "url": "https://github.com/LahcenEzzara/TeeChroma-Repo",
-      "description": "🔥 TeeChroma | Front-End Project.",
+      "name": "ReservationSystemApp",
+      "createdAt": "2025-01",
+      "url": "https://github.com/salahibra/ReservationSystemApp",
+      "description": "🔥 ReservationSystemApp | Front-End Development \n Designed and implemented the front-end of a web-based reservation system using Angular, enabling students to efficiently manage bookings and generate QR codes (PDF format).",
       "isFork": false,
       "languages": [
         {
-          "name": "React",
-          "iconifyClass": "logos:react"
+          "name": "Angular",
+          "iconifyClass": "logos:angular-icon"
         },
         {
-          "name": "ThreeJS",
-          "iconifyClass": "devicon:threejs"
+          "name": "typescript",
+          "iconifyClass": "vscode-icons:file-type-typescript-official"
         },
         {
           "name": "NodeJS",
           "iconifyClass": "logos:nodejs"
+        },
+        {
+          "name": "bootstrap",
+          "iconifyClass": "logos:bootstrap"
         }
       ]
     },
     {
       "id": "736828946",
-      "name": "TeeChroma-API",
-      "createdAt": "2023-12-29T02:14:17Z",
-      "url": "https://github.com/LahcenEzzara/TeeChroma-API",
-      "description": "🔥 TeeChroma-API | Front-End Project API.",
+      "name": "ReservationSystem-api",
+      "createdAt": "2025-01",
+      "url": "https://github.com/salahibra/ReservationSystem-api",
+      "description": "🔥 ReservationSystem-api | Back-End Project RESTfulAPI.",
       "isFork": false,
       "languages": [
         {
@@ -35,26 +39,74 @@
           "iconifyClass": "eos-icons:api"
         },
         {
-          "name": "ExpressJS",
-          "iconifyClass": "skill-icons:expressjs-dark"
+          "name": "laravel",
+          "iconifyClass": "logos:laravel"
+        },
+        {
+          "name": "php",
+          "iconifyClass": "logos:php"
+        }
+      ]
+    },
+    {
+      "id": "736828946",
+      "name": "moviezone",
+      "createdAt": "2024-10",
+      "url": "https://github.com/salahibra/moviezone",
+      "description": "🔥 moviezone app | Front-End Project",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos:react"
+        },
+        {
+          "name": "javascript",
+          "iconifyClass": "logos:javascript"
+        },
+        {
+          "name": "css",
+          "iconifyClass": "logos:css-3"
+        }
+      ]
+    },
+    {
+      "id": "736828946",
+      "name": "scopus-app",
+      "createdAt": "2025-07",
+      "url": "https://github.com/salahibra/scopus-app",
+      "description": "🔥 scopus-app |  interactive visualizations",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos:python"
+        },
+        {
+          "name": "streamlit",
+          "iconifyClass": "logos:streamlit"
+        },
+        {
+          "name": "pandas",
+          "iconifyClass": "logos:pandas"
+        },
+        {
+          "name": "matplotlib",
+          "iconifyClass": "logos:matplotlib"
         }
       ]
     },
     {
       "id": "743347572",
-      "name": "TechNook",
-      "createdAt": "2024-01-15T03:00:26Z",
-      "url": "https://github.com/LahcenEzzara/TechNook",
-      "description": "🔥 MongoDB | NextJS Project.",
+      "name": "Automata implementaion",
+      "createdAt": "2024-04",
+      "url": "https://github.com/salahibra/AutomateProject",
+      "description": "🔥 Automate im | Python Project.",
       "isFork": false,
       "languages": [
         {
-          "name": "MongoDB",
-          "iconifyClass": "skill-icons:mongodb"
-        },
-        {
-          "name": "NextJS",
-          "iconifyClass": "devicon:nextjs"
+          "name": "Python",
+          "iconifyClass": "logos:python"
         }
       ]
     }

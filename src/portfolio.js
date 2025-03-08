@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca.",
   resumeLink:
-    "https://drive.google.com/file/d/1TWF96CCjZDHXyDMQd_KwRcU4y9TR3yUV/view?usp=sharing",
+    "https://drive.google.com/file/d/1EQmU-lFUiXjUrF0OOKvjjzHvWR9tlxPC/view?usp=sharing",
   portfolio_repository: "https://github.com/salahibra/salahibra.github.io",
   githubProfile: "https://github.com/salahibra",
 };
@@ -48,7 +48,7 @@ const socialMediaLinks = [
   },
   {
     name: "Gmail",
-    link: "mailto:ibrahimsalahzefri75@gmail.com",
+    link: "mailto:ibrahim.salah.officiel@gmail.com",
     fontAwesomeIcon: "fas fa-envelope", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -78,7 +78,7 @@ const socialMediaLinks = [
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/lahcenezzara",
+    link: "https://www.instagram.com/ibrahimxsalah",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -93,9 +93,63 @@ const skills = {
         "⚡ Enterprise Software Development",
         "⚡ Web Development",
         "⚡ Mobile Development",
-        "⚡ Desktop Development",
+        "⚡ Artificial Intelligence development",
+        "⚡ Machine Learning",
+        "⚡ Deep Learning techniques",
+        "⚡ Virtual Reality and Augmented Reality",
       ],
       softwareSkills: [
+        {
+          skillName: "Java",
+          fontAwesomeClassname: "simple-icons:java",
+          style: {
+            color: "#007396",
+          },
+        },
+        {
+          skillName: "spring boot",
+          fontAwesomeClassname: "simple-icons:spring",
+          style: {
+            color: "#6DB33F",
+          },
+        },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "simple-icons:pytorch",
+          style: {
+            color: "#EE4C2C",
+          },
+        },
+
+        {
+          skillName: "OpenCV",
+          fontAwesomeClassname: "simple-icons:opencv",
+          style: {
+            color: "#5C3EE8",
+          },
+        },
+        {
+          skillName: "TensorFlow",
+          fontAwesomeClassname: "simple-icons:tensorflow",
+          style: {
+            color: "#FF6F00",
+          },
+        },
+
+        {
+          skillName: "Android Development",
+          fontAwesomeClassname: "simple-icons:android",
+          style: {
+            color: "#3DDC84",
+          },
+        },
+        {
+          skillName: "Angular",
+          fontAwesomeClassname: "simple-icons:angular",
+          style: {
+            color: "#DD0031",
+          },
+        },
         {
           skillName: "HTML5",
           fontAwesomeClassname: "simple-icons:html5",
@@ -108,6 +162,20 @@ const skills = {
           fontAwesomeClassname: "fa-css3",
           style: {
             color: "#1572B6",
+          },
+        },
+        {
+          skillName: "Unity",
+          fontAwesomeClassname: "simple-icons:unity",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Business Intelligence",
+          fontAwesomeClassname: "simple-icons:powerbi",
+          style: {
+            color: "#F2C811",
           },
         },
 
@@ -128,8 +196,8 @@ const skills = {
         },
 
         {
-          skillName: "Spring",
-          fontAwesomeClassname: "simple-icons:spring",
+          skillName: "laravel",
+          fontAwesomeClassname: "simple-icons:laravel",
           style: {
             color: "#6DB33F",
           },
@@ -171,7 +239,7 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/LahcenEzzara",
+      profileLink: "https://leetcode.com/u/Salahibra/",
     },
     {
       siteName: "HackerRank",
@@ -179,7 +247,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/profile/LahcenEzzara",
+      profileLink: "https://www.hackerrank.com/profile/#",
     },
     {
       siteName: "Codechef",
@@ -187,7 +255,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/lahcenezzara",
+      profileLink: "https://www.codechef.com/users/salahibra",
     },
     {
       siteName: "Codeforces",
@@ -195,7 +263,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "https://codeforces.com/profile/LahcenEzzara",
+      profileLink: "https://codeforces.com/profile/#",
     },
     {
       siteName: "Hackerearth",
@@ -203,7 +271,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@LahcenEzzara",
+      profileLink: "https://www.hackerearth.com/@ibrahimsalahzefri75/",
     },
     {
       siteName: "Kaggle",
@@ -211,7 +279,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/lahcenezzara",
+      profileLink: "https://www.kaggle.com/salahibra",
     },
   ],
 };
@@ -223,30 +291,27 @@ const degrees = {
       subtitle: "State Engineer",
       logo_path: "ensam.svg",
       alt_name: "ENSAM CASA",
-      duration: "2022 - 2025",
+      duration: "2023 - present",
       descriptions: ["⚡ Artificial Intelligence & Computer Engineering."],
       website_link: "http://www.ensam-casa.ma",
     },
     {
-      title: "CPGE - Classes Préparatoires aux Grandes Ecoles",
-      subtitle: "Preparatory Classes",
-      logo_path: "cpge.svg",
-      alt_name: "CPGE",
-      duration: "2020 - 2022",
-      descriptions: [
-        "⚡ Preparatory Classes - Mathematics, Physics and Engineering Sciences (MPSI).",
-      ],
-      website_link: "https://www.cpge.ac.ma",
+      title: "Classes Préparatoires Integrées - ENSAM Casablanca",
+      subtitle: "integrated preparatory classes",
+      logo_path: "ensam.svg",
+      alt_name: "Ensam Casa",
+      duration: "2021 - 2023",
+      descriptions: ["⚡ integrated preparatory classes "],
+      website_link: "http://www.ensam-casa.ma",
     },
     {
-      title: "Ministry of National Education (Morocco) - Abatih High School",
+      title:
+        "Ministry of National Education (Morocco) - Abdelkader Nakhcha High School",
       subtitle: "Baccalaureate Certificate",
       logo_path: "mne.svg",
       alt_name: "MNE",
-      duration: "2019 - 2020",
-      descriptions: [
-        "⚡ Mathematics - International Branch of Mathematical Sciences A French Option.",
-      ],
+      duration: "2020 - 2021",
+      descriptions: ["⚡ physical sciences."],
       website_link: "https://www.men.gov.ma/en/Pages/Accueil.aspx",
     },
   ],
@@ -255,34 +320,34 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Python for beginners",
-      subtitle: "Microsoft",
-      logo_path: "microsoft_logo.png",
+      title: "Oracle Certified Professional: Java SE 17 Developer",
+      subtitle: "Oracle",
+      logo_path: "OCPJSE17.jpg",
       certificate_link:
-        "https://drive.google.com/file/d/1W1zmoE7lMx8CJdHTkAY0WK92p-Jd82Bl/view?usp=share_link",
-      alt_name: "Microsoft",
+        "https://drive.google.com/file/d/16f09FvLAO3qKDUV5gRtosDFCFwlQ6OYj/view?usp=sharing",
+      alt_name: "Oracle",
       color_code: "#4285F499",
     },
     {
-      title: "Learn the basics of the Python Language",
-      subtitle: "OpenClassrooms",
-      logo_path: "OpenClassrooms.png",
+      title: "NDG LINUX ESSENTIALS",
+      subtitle: "Cisco Networking Academy",
+      logo_path: "Cisco_Networking_Academy.svg.png",
       certificate_link:
-        "https://drive.google.com/file/d/1TRbsdtFlcpOzajzUGPP6fmWNrnwNMncU/view?usp=share_link",
-      alt_name: "OpenClassrooms",
+        "https://drive.google.com/file/d/1wGC8J01wazYJ4_rE-YqhK9KPEKJ8iW4n/view?usp=sharing",
+      alt_name: "Cisco Networking Academy",
       color_code: "#4285F499",
     },
     {
-      title: "Manage code with Git and GitHub",
-      subtitle: "OpenClassrooms",
-      logo_path: "OpenClassrooms.png",
+      title: "CLA: Programming Essentials in C",
+      subtitle: "Cisco Networking Academy",
+      logo_path: "Cisco_Networking_Academy.svg.png",
       certificate_link:
-        "https://drive.google.com/file/d/1pzsxr1kR9BALzmtlKPGrMsA-q7HZTPBr/view?usp=share_link",
-      alt_name: "OpenClassrooms",
+        "https://drive.google.com/file/d/1AwbGSFdR_V74NySfYE9Jt5LIrx4kAb7N/view?usp=sharing",
+      alt_name: "Cisco Networking Academy",
       color_code: "#4285F499",
     },
-    {
-      title: "Learn to program in C",
+    /*   {
+       title: "Learn to program in C",
       subtitle: "OpenClassrooms",
       logo_path: "OpenClassrooms.png",
       certificate_link:
@@ -392,7 +457,7 @@ const certifications = {
         "https://drive.google.com/file/d/15JYp5zWbB3cZLa1o_puwQteazLOXYCe1/view?usp=share_link",
       alt_name: "OpenClassrooms",
       color_code: "#4285F499",
-    },
+    }, */
     {
       title: "Baccalaureate Certificate",
       subtitle: "Ministry of National Education (Morocco)",
@@ -407,7 +472,7 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Work, Internship and Volunteerships",
   description: "",
   header_image_path: "experience.svg",
   sections: [
@@ -416,14 +481,27 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Head of the Club",
-          company: "A&C PowerSkills Club",
-          company_url: "https://www.instagram.com/aec.powerskills/",
-          logo_path: "aec.jpg",
-          duration: "January 2024 - Present",
-          location: "CasaBlanca, Morocco",
+          title: "Membre",
+          company: "GDG on Campus ENSAM Casablanca ",
+          company_url:
+            "https://www.linkedin.com/company/gdg-on-campus-ensam-casablanca/posts/?feedView=all",
+          logo_path: "gdg.jpg",
+          duration: "September 2024 - Present",
+          location: "Casablanca, Morocco",
           description:
-            "I am responsible for the management of the club, the organization of events and the supervision of the club's activities.",
+            "Active participation in Google Developer Groups (GDG) community initiatives: conferences, workshops.",
+          color: "#0879bf",
+        },
+        {
+          title: "Membre",
+          company: "Art et Métiers Mechatronics",
+          company_url:
+            "https://www.linkedin.com/in/arts-et-m%C3%A9tiers-mechatronics-4825561ba/",
+          logo_path: "mechatronics.jpg",
+          duration: "September 2022 - juin 2023",
+          location: "Casablanca, Morocco",
+          description:
+            "Involvement in student projects related to mechatronics (design, prototyping, robotics.)",
           color: "#0879bf",
         },
       ],
@@ -432,19 +510,20 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Software Engineer Intern",
-          company: "HE GROUPE",
-          company_url: "https://www.linkedin.com/company/he-groupe/",
-          logo_path: "hegroupe.png",
-          duration: "August 15, 2023 - September 15, 2023",
-          location: "Marrakech, Morocco",
+          title: "Intern , Data Analysis and Visualization,",
+          company:
+            " Presidency of Hassan II University , Department of Information Systems",
+          company_url: "https://www.univh2c.ma/",
+          logo_path: "UH2.png",
+          duration: "Juillet 1, 2024 - Juillet 31, 2024",
+          location: "Casablanca, Morocco",
           description:
-            "I worked on the development of a web application for the management of the company's store.",
+            "Developed and deployed a Streamlit-based bibliometric analysis tool using Python, Pandas, and Seaborn for data processing and visualization.",
           color: "#000000",
         },
       ],
     },
-    {
+    /* {
       title: "Volunteerships",
       experiences: [
         {
@@ -459,7 +538,7 @@ const experience = {
           color: "#4285F4",
         },
       ],
-    },
+    }, */
   ],
 };
 
@@ -496,7 +575,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "lahcen.png",
+    profile_image_path: "salahibra.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours.",
   },
