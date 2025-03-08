@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    revision: "7163327606c62f872a1135ed06b07a50",
+    revision: "e559ee60c7ac2dfa77f711300f5728cf",
     url: "/index.html",
   },
   {
-    revision: "8c7254fc567983de7c81",
-    url: "/static/css/main.113fbee8.chunk.css",
+    revision: "cd44f343c5d139ce906b",
+    url: "/static/css/main.60c3aabc.chunk.css",
   },
   {
-    revision: "cdac256da4adf0698e56",
-    url: "/static/js/2.4effa3fe.chunk.js",
+    revision: "75ecef7882e520caea48",
+    url: "/static/js/2.083716f5.chunk.js",
   },
   {
-    revision: "8c7254fc567983de7c81",
-    url: "/static/js/main.af5803e3.chunk.js",
+    revision: "cd44f343c5d139ce906b",
+    url: "/static/js/main.97ffb91c.chunk.js",
   },
   {
-    revision: "401a55cfa891f62095fd",
-    url: "/static/js/runtime-main.37723130.js",
+    revision: "508dc4588b991a1f5cf1",
+    url: "/static/js/runtime-main.cb6199f4.js",
   },
   {
     revision: "21f233e19402cc4a66866a7f31191f0d",
     url: "/static/media/Agustina.21f233e1.woff",
   },
   {
-    revision: "5b521b0501ec2548fdc7b30663c33c80",
-    url: "/static/media/Alison.5b521b05.svg",
+    revision: "e23c03567350b5fdc4682bff3b836f53",
+    url: "/static/media/Cisco_Networking_Academy.svg.e23c0356.png",
   },
   {
     revision: "4457817ac2b9993c65e81aa05828fe9c",
@@ -56,8 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     url: "/static/media/Montserrat-Regular.ee653992.ttf",
   },
   {
-    revision: "9c12841bcd3f0e2b2cfeaeb67f8d43a3",
-    url: "/static/media/Python-for-CPGE.9c12841b.png",
+    revision: "99e34833b9e09a8670773197aed9fef2",
+    url: "/static/media/OCPJSE17.99e34833.jpg",
+  },
+  {
+    revision: "15a163bef797fb211f9d13a44fe39ccd",
+    url: "/static/media/UH2.15a163be.png",
   },
   {
     revision: "16559172ca1d4d552390b48f19e102ba",
@@ -66,14 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     revision: "058eca4cbdc03a1dad9a6bb943ac7831",
     url: "/static/media/blogs_image.058eca4c.svg",
-  },
-  {
-    revision: "7169eafb412bf2df21fd61a482a2c136",
-    url: "/static/media/coursera.7169eafb.png",
-  },
-  {
-    revision: "f3a04d553dd88a3b6dfd4dff2b992c7d",
-    url: "/static/media/cpge.f3a04d55.svg",
   },
   {
     revision: "3bab7a9dc4324f1b2364d25a47fcfcf0",
@@ -156,16 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     url: "/static/media/fullstack.fce60807.svg",
   },
   {
-    revision: "7c7fa2a9a2661df4559a0ed7ff930e44",
-    url: "/static/media/hegroupe.7c7fa2a9.png",
-  },
-  {
-    revision: "b73ab374dbd19d55a8b0a34606c5c1ec",
-    url: "/static/media/hp-life.b73ab374.svg",
-  },
-  {
-    revision: "af3f3620cc63814a972279ec3efbf13a",
-    url: "/static/media/lahcen.af3f3620.png",
+    revision: "655077595f13ddd9575573bb4205563e",
+    url: "/static/media/mechatronics.65507759.jpg",
   },
   {
     revision: "028ec89a63527917879d40ac157f8857",
@@ -174,5 +162,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     revision: "b8ba948796d7ab532673c5ed2f315e74",
     url: "/static/media/projects_image.b8ba9487.svg",
+  },
+  {
+    revision: "d5f6ce4ffcf5e64ce64795f60722f64a",
+    url: "/static/media/salahibra.d5f6ce4f.png",
   },
 ]);

@@ -1,5 +1,5 @@
-(this.webpackJsonpLahcenEzzaraPortfolio =
-  this.webpackJsonpLahcenEzzaraPortfolio || []).push([
+(this.webpackJsonpIbrahimSalahPortfolio =
+  this.webpackJsonpIbrahimSalahPortfolio || []).push([
   [0],
   Array(25).concat([
     function (e) {
@@ -19,25 +19,21 @@
     },
     function (e, t, a) {
       var r = {
-        "./Alison.svg": 128,
-        "./OpenClassrooms.png": 129,
-        "./Python-for-CPGE.png": 130,
+        "./Cisco_Networking_Academy.svg.png": 128,
+        "./OCPJSE17.jpg": 129,
+        "./UH2.png": 130,
         "./address_image.svg": 131,
-        "./aec.jpg": 132,
-        "./blogs_image.svg": 133,
-        "./coursera.png": 134,
-        "./cpge.svg": 135,
-        "./education.svg": 136,
-        "./ensam.svg": 137,
-        "./experience.svg": 138,
-        "./feelingProud.svg": 139,
-        "./fullstack.svg": 140,
-        "./hegroupe.png": 141,
-        "./hp-life.svg": 142,
-        "./lahcen.png": 143,
-        "./microsoft_logo.png": 144,
-        "./mne.svg": 145,
-        "./projects_image.svg": 146,
+        "./blogs_image.svg": 132,
+        "./education.svg": 133,
+        "./ensam.svg": 134,
+        "./experience.svg": 135,
+        "./feelingProud.svg": 136,
+        "./fullstack.svg": 137,
+        "./gdg.jpg": 138,
+        "./mechatronics.jpg": 139,
+        "./mne.svg": 140,
+        "./projects_image.svg": 141,
+        "./salahibra.png": 142,
       };
       function s(e) {
         var t = l(e);
@@ -120,12 +116,12 @@
     },
     function (e) {
       e.exports = JSON.parse(
-        '{"data":[{"id":"737649245","name":"TeeChroma","createdAt":"2023-12-31T23:07:50Z","url":"https://github.com/LahcenEzzara/TeeChroma-Repo","description":"\ud83d\udd25 TeeChroma | Front-End Project.","isFork":false,"languages":[{"name":"React","iconifyClass":"logos:react"},{"name":"ThreeJS","iconifyClass":"devicon:threejs"},{"name":"NodeJS","iconifyClass":"logos:nodejs"}]},{"id":"736828946","name":"TeeChroma-API","createdAt":"2023-12-29T02:14:17Z","url":"https://github.com/LahcenEzzara/TeeChroma-API","description":"\ud83d\udd25 TeeChroma-API | Front-End Project API.","isFork":false,"languages":[{"name":"API","iconifyClass":"eos-icons:api"},{"name":"ExpressJS","iconifyClass":"skill-icons:expressjs-dark"}]},{"id":"743347572","name":"TechNook","createdAt":"2024-01-15T03:00:26Z","url":"https://github.com/LahcenEzzara/TechNook","description":"\ud83d\udd25 MongoDB | NextJS Project.","isFork":false,"languages":[{"name":"MongoDB","iconifyClass":"skill-icons:mongodb"},{"name":"NextJS","iconifyClass":"devicon:nextjs"}]}]}'
+        '{"data":[{"id":"737649245","name":"ReservationSystemApp","createdAt":"2025-01","url":"https://github.com/salahibra/ReservationSystemApp","description":"\ud83d\udd25 ReservationSystemApp | Front-End Development \\n Designed and implemented the front-end of a web-based reservation system using Angular, enabling students to efficiently manage bookings and generate QR codes (PDF format).","isFork":false,"languages":[{"name":"Angular","iconifyClass":"logos:angular-icon"},{"name":"typescript","iconifyClass":"vscode-icons:file-type-typescript-official"},{"name":"NodeJS","iconifyClass":"logos:nodejs"},{"name":"bootstrap","iconifyClass":"logos:bootstrap"}]},{"id":"736828946","name":"ReservationSystem-api","createdAt":"2025-01","url":"https://github.com/salahibra/ReservationSystem-api","description":"\ud83d\udd25 ReservationSystem-api | Back-End Project RESTfulAPI.","isFork":false,"languages":[{"name":"API","iconifyClass":"eos-icons:api"},{"name":"laravel","iconifyClass":"logos:laravel"},{"name":"php","iconifyClass":"logos:php"}]},{"id":"736828946","name":"moviezone","createdAt":"2024-10","url":"https://github.com/salahibra/moviezone","description":"\ud83d\udd25 moviezone app | Front-End Project","isFork":false,"languages":[{"name":"React","iconifyClass":"logos:react"},{"name":"javascript","iconifyClass":"logos:javascript"},{"name":"css","iconifyClass":"logos:css-3"}]},{"id":"736828946","name":"scopus-app","createdAt":"2025-07","url":"https://github.com/salahibra/scopus-app","description":"\ud83d\udd25 scopus-app |  interactive visualizations","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos:python"},{"name":"streamlit","iconifyClass":"logos:streamlit"},{"name":"pandas","iconifyClass":"logos:pandas"},{"name":"matplotlib","iconifyClass":"logos:matplotlib"}]},{"id":"743347572","name":"Automata implementaion","createdAt":"2024-04","url":"https://github.com/salahibra/AutomateProject","description":"\ud83d\udd25 Automate im | Python Project.","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos:python"}]}]}'
       );
     },
     ,
     function (e, t, a) {
-      e.exports = a(267);
+      e.exports = a(263);
     },
     ,
     ,
@@ -163,30 +159,20 @@
     function (e, t, a) {},
     function (e, t, a) {},
     function (e, t, a) {
-      e.exports = a.p + "static/media/Alison.5b521b05.svg";
-    },
-    function (e, t) {
       e.exports =
-        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACRCAYAAAAsGjEdAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAnuSURBVHgB7Z1NbFTXFcfPG39jk9hWaBR3URO6G1dFCrY3cYWRYJMEnA1mSVg1KqlIGylRF0nJqlRFQmoisuJjaTY1hHYRKpvW3RRbKlU9WcUfXQAqrmw3xviDMa/3/54fmTgemJk3751z3zs/aTSesQT++Pnec+499x6HtvDLgbn95LgDGXKOuESdpChEt13HuV37uOb0meG22cJPOMEHpwYWWmsz+Y/IpVOkKMVw6Fz+ce3pc8Nti/5L2pTHyY+aD/eSojyb23m3th8SZfDKG3lUHqV09m46Q877AwudG05+hhSlTFyX+jN559GvSVEqIEMm2XLI+TEpSiU4zhHEQBr7KBWBZZ4MKUoIVCAlFCqQEgoVSAmFCqSEQgVSQqECKaFQgZRQqEBKKFQgJRS1lDA6dtdSR2cttX0v4z2admSoHc/N/t8K3itk4f5jWlnGw/UeC/c3aGFug+7MbtDdmTytmveU4lgtUGOzQ3uydf6jq86IUuO9Vw6eaE8ZiCHUnZkNms6t01Qu70mlfIN1AuEXvq+/8Yk00f9/Nd6jq7feew2hpiYf0eStdcqZR9px3ntzTvwYjVGlu7+Bsj0NsUhTKoFM4zfXaNo8pxHRAkGWbHc9dR9oLHtqihvI9MXQQ5oYXaM0IVIgiHPw6A5Ro02ppE0kUQJ17K6hw2+1WCnOVtIikgiBMD0dGtxBfa83UdKASFcvLCc24GYXaJ8Jjo+caBEf44RlYmSVvrjy0Ft3ShJsaTyEOf7+c4mYrkphn0kE8L0mbVpj28p4++PnUyNPANaTBt/ZaeK8ZrMynowRl02gS2e+TtxwXip9bzTRu2dbv7OtYiNs3wHkuXTmf5RWMBphFM721JPNsP4J3DV7TNcuPKC0AomOf/AcHTQZqK2wj6Fj11fphgks0wyWMGyVSMQk7GUmI+naAtiKrRKJieKuXXyQ+lIJGyUSIxCKudKcmQXYJpGoPDLIzFZSXgUIibBCbwPiFiLSnpkFYMERpbnSEbmShaX+tGdm4PgHO8UvNor96jQz21wnMvuFkhGtt2Zm/ikT7J1JRbRAmpn5YO/sZaEbz+J38zQz8zl2skXkDr4V28Gamfnx0KsCKzatqSfQzMxfH5KWlVlVkKKZmVkfOrmTJGHdyVRkZji9geykFBBDfZVb956DYByF7gDTQlOz/4xFu++bf1N6bTaqOBFQSznIaMXJ1K1gGH/74+0r+nAZwr9u4aRonibNc7mXI0BOHJvue13edBGA07CffSijGM9KgQB+ue+ebXuSmWB0Gbv+kMZH16p2owZE2negwTuLL43zRiAJo5C1AoGunnpvz+iqydCiPOkAWf0NTjkiSRmFrBYIIGaJ6w4f7JAfGmwWM7VJGIWsPxYQ5wVQGOXOf7joxVYS6N7PX/KhV9yVCWKty79ZErEmle1tYF+dVoEqBGtS3BJBnleY4zIVKAQSJOpiPlemAoUEEv3t+gpxgYVFzmlMBaoCuL5lijEb4pzGVKAqMfTJElvJCec0pgJVCWRnN4aWiYNS9wWjQAWqIjimzTGVIQbiqlhUgaoMV1bGdQRIBaoyU7lHLKMQqgg4UIEiIDce/1bHD7M6hSUGVE3GnZH5xXHxrwepQBEAeXIMG66NKlBymJqM/0AkRyCtAkXEVC7+i8UxjcWNChQRfiO7eOMgjYESRnD6Iy44KiVVoAi5O5v8iyFUoAiJfwrTEShRxC7QDo2BFMtQgZRQqEAR0h5zVjQ/F2/WB1SgCGnbxbNDHicqUITEXSnIcRWgChQRWBWOe2WYoyZbBYqIPQz1OXGvfAMVKCI4GsmtPNQRKDFw9IO9x3CntgoUAZi+4i6t4Nj9BypQBHB02plniH+AClRlUFKBHvFxg9MgHKhAVebQUZ5mcSpQAujqrWcZfcA9pqY0KlCVwIkIrq46OMjIdbGDClQl/DYEPHtfk7fiL+APUIGqQN8bjdTH2AiFK/4BKlBIsGB4+K0W4gLrP/cYm/KpQCHAhQbcLSn/yni9HrCu2YoU0ALhiBl5uJuz5JjvrFaBKgAB88FBnvWeQpB9cbcDVYHKoO3FDA3+bCfLRul2jH3OO30BqwXCtgEasA19ukQL/4nuL7GxxaG+15roJybTktJPbN58v7lxvvQ9wFqB/J5hz3trL786304TI6s09qdVv014ldbUJIrj4RLbhZ5bsVYgZD+FC3fYQsADAo2ZzGTqy834oEyZIA06F76yv4F+1NMgsoPhvPm+Jm7KaPhipUCHTzQXLVjH++ghBiATftjTuXW68+8Nr7PPyvK3pzpI2P4CWl76bTTFt70UNPoA6wRCBlTqqi+E6Njtb3ImBUmjD7BqIRF1xhLSZy5cM/pcu/CAJGGNQAiaj70jq+V13EyMrorIvAqxQqAg45LekjtKkLbfuMLf5G4rVgi0NeNKG+5m4My96rwd4gV6WsaVFjB1SQqcCxEtUDkZV1KROnUFiBUIRVppzrgApq7PPloUOXUFiBQIQfOhozz1xVLwU3aZcU8h4gTSjMuXx+vF+kf+3fZnIUogSBNskKYW1y/T+LPguKcQUQIdO9mSennGR9bo80ty9rqehRiBkHFle+M/Uy6GTXmufLpENiFCoNRnXJbKA9hX6HCygfNYDDfuZsxj07RVCKtAyLi4j8VwEmRbtgTM28EmUNozrpUHLg39fknc7nq5sAmU5ozrznSeLv/2a/GLhKXAJtDVi8v0Umcdtb+YnsOxtsc72+G89+Ycz70g5N+ljPT91dfMhmnCF56xKXrlkyXWixCigFWgAATTPz3dmsjRCLEOTolI3lEPgwiBAnA55UGziZoEkTBdoY7nmpmqV5fF/IirjiiBAmwWKRAHI04SguRnIVKggCcioW2S8BgJU9W4EQc76GkQJ0C0QAG4uBvXqWS7G6ipRdYRYwTFuGJlfHQt0VNVMawoNsYvCY/G5mXq6qn3zoftydb73XBi9glT1LT5WvCY/Pt6KjozPw0rRqBiYGTK9tZTxw9q6eWuOt+lKgsFYTAlTX257l0ll9aRphhWH3cIRqYAbMy276rxZGrblfHPvZvXQXVjMbcCHSAKWibN/3fDkwWvvzL/vgpTHKtHoHJofEoDONyxrJJURmoOXK2qJJGgt7QqoVCBlFCoQEooVCAlFCqQEgoVSAmFCqSEQgVSQqECKaHIOC7NkqJUgEvubMalx38hRakAx3X/aaawzCVSlEpwMhe97WmzIz9invpJUUrFpdHfDe864AXReTd/wsxnM6QoJQBX8pQ/gY89gc4NvzS74W4c2JRIax6UYhg33H/AFTiDN75TYfWLgfvHM+T83HxmLylKgEs3Xce5fPYPL1wufLtoBfGpgZnWOmrudMlpJSW1OOQuPqLl2XPDuxe3+/z/AXyL8phPhlhBAAAAAElFTkSuQmCC";
+        a.p + "static/media/Cisco_Networking_Academy.svg.e23c0356.png";
     },
     function (e, t, a) {
-      e.exports = a.p + "static/media/Python-for-CPGE.9c12841b.png";
+      e.exports = a.p + "static/media/OCPJSE17.99e34833.jpg";
+    },
+    function (e, t, a) {
+      e.exports = a.p + "static/media/UH2.15a163be.png";
     },
     function (e, t, a) {
       e.exports = a.p + "static/media/address_image.16559172.svg";
     },
-    function (e, t) {
-      e.exports =
-        "data:image/jpeg;base64,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";
-    },
     function (e, t, a) {
       e.exports = a.p + "static/media/blogs_image.058eca4c.svg";
-    },
-    function (e, t, a) {
-      e.exports = a.p + "static/media/coursera.7169eafb.png";
-    },
-    function (e, t, a) {
-      e.exports = a.p + "static/media/cpge.f3a04d55.svg";
     },
     function (e, t, a) {
       e.exports = a.p + "static/media/education.3bab7a9d.svg";
@@ -203,24 +189,21 @@
     function (e, t, a) {
       e.exports = a.p + "static/media/fullstack.fce60807.svg";
     },
-    function (e, t, a) {
-      e.exports = a.p + "static/media/hegroupe.7c7fa2a9.png";
-    },
-    function (e, t, a) {
-      e.exports = a.p + "static/media/hp-life.b73ab374.svg";
-    },
-    function (e, t, a) {
-      e.exports = a.p + "static/media/lahcen.af3f3620.png";
-    },
     function (e, t) {
       e.exports =
-        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAVFBMVEX0TiSBuQABpO//uQL////zPgD839q71418twCUz/YAoO54tQDo8dz/2ZT/tgAAnu7c7fz/143zKgD83Ne21YX++fjx9+qNzPbr9f3/6cIAmu7/1ojz0lEEAAABIElEQVR4nO3PNxLCQAAEwQMk4YX3//8nGSIh3eKg5wNTXUqstmteTWejVDkgISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEh4RcK21j7wyA8LmOVLtdpEJ5XsUrz6xHWH2H9EdYfYf39gXAe63Idtrd1rLKIdd8Owkcfq4xjbd6Eu36SipCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkPBzT1a6jroC5x5uAAAAAElFTkSuQmCC";
+        "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCADIAMgDASIAAhEBAxEB/8QAHAABAAIDAQEBAAAAAAAAAAAAAAYHBAUIAgED/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAUGAgMEBwH/2gAMAwEAAhADEAAAAeqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACP47ZA1+w+4B9xMDU/NMlH3cAAAAAAMP5lmaKtaxjLdMoSQ94yulOYb5763YGs2cJm/M+f8A4vMpjd3MHrZK9hqIubouOxGfeAAA8+OfpLkntP+PyxseO+/KJ6mbW5NsfXV+5Cd85fl+rpieeID2LBeeq86N7otNWZmG+Y3dafH0k3WTqFh5nTcAZARvnfqbny2wUcFrhPm21SOk+ns7mu36lKzUQsgANLy7NnRktwPO5Om/yt+ES1Di77ILTUbum2HmdvpYZdADz6Fb1R0/hT8XzAsiurfA+B1aZlefLV5VWanXn1pqNYo1oTwy6D7y7fn7b6YW6KjUq9vS64HfqAAAAaHfNmFAxHqyPWaH586LyNjH9TFykDJVV+Fq4nm9hhkz2S1xYWHhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//EACMQAAICAgMAAgMBAQAAAAAAAAMEAgUAAQYQIBEwFUBwEhT/2gAIAQEAAQUC/nDN/XqTUsFn49tvLowDyStYn+hZXStVC25U1Y9LNFTNT2OrSvyzejWovPGsGMqOUN1WVPIFLeP2NNhSFb80mXCEkWffCRyhUZzEUiUPcZbhKn5sZbErBexF9G5ajq35kFbHHz2BfFJxk9pNcEFQ4QcTDveJsV0/CrhkS0/NxmyBIlh5KSIR3F6e0Lm4ZvXx0hWM2ZKjiC6Pq44krZZZ0rVTPxT3rNOVRqDq3jkXz+F8VIkttpxBBf2aA5iu6FaRSimGffDv9fgPBhROK3pD1RfFfas1k6rlCz/pu0EtjLpWt4dYbMHaMgc3r43UUjNwZRWCS3mUdTja8PGbGkzJF8VHJWK6QDQYDkpajF20mxvwIUzSWoB5GGhx+htMLwrXh5QZKO4S74cSU6nLeW4pd6184pTTJgQQXj9llSq2kbTjbVb0ABGS1CH41DGQ/wDQAwZAnilaVrFUBK6/QPQIMzUrlkddlAM+oVy49/zj/8QAMREAAgECBAQEAgsAAAAAAAAAAQIDAAQFERIhECIxUQYTIEFQkRQwMkJScYGhscHR/9oACAEDAQE/AfhccUkpyjUn8qZWQ6WGR4NNGh0swz+oVSx0rVj4feTnuth296gt4rZdES5CvEMKG3Ep+0DVw5jhd16gUSWOZq1xKa25TutW17DdDkO/b03FytuN6wbxFh8B0SxaD+Lr/W36VHIkyh4zmDV5iVvZDnO/ar/EZb9ubYD2rrV3g/37f5U6NGdLjI0CVOYq0xhk5J9x3oEMMxxxGNiRIOnCzxK7sM/o8hANRXyznn68UjaU6UFNgcFwmVzuf4rEvDVzaZyQc6fv8v8AKSNpG0KN6gjMUSofYeiexSTdNjUkTxHJxwsJ2LeW1RJ5jhO9RxrEulBwnv0j2Tc1JI0ram9TKrjJqlw7M5xGrW08jmPWgSpzFLia6eZd6nvJJ9ug+M//xAAuEQABAwIDBwMDBQAAAAAAAAABAgMEABEFEBIGEyAhIjFRQWGhFCNQMDJSkcH/2gAIAQIBAT8B/FlQT+40CDzGVx+gTbvT00Dk3S1qWbqNQVHXp9KPbJKyKCgrhhQVzFG3ICsQ2dlW1Mr1e3aloU0ooWLGmmFu9qZYSyOWSm/GYc88GCPoCVMnvlLw+NOH3k39/WpWFOxuaOac5ElmIjePKsKnbTuLVaImw8n1qBj7Enoe6FfFDn2ochwRMXcZ6XeofNMSWpKdTZyxiI2Eb9AsalP/AEzC3v4gmpMp6W5vHlXOWHbOyJVlv9CfmokJiCjQyOJDi2lakGxqPjdhZ8f1WIYj9ZZCRZNOIS6goX2NO7KPbz7Tg0+/esPwSLA6ral+T/nj8z//xAA3EAACAQEEBgcGBgMAAAAAAAABAgMAERIgMQQQE0FRUiEiIzBCYXEkMlNiscEFFEBwkdGBoaL/2gAIAQEABj8C/bi7LpShuA6fpVujzLL6YL08qxD5jVxNLS952j6/obZn625FzNFE9nh5VzPqdSywuUdd4qOfJj0MPPVNpDdNwZcTTTTvec/61BbdtB8N/tXZvdl3xtn3pknkEacTRj0IbNfiHOizsWY5k4CTk0hI1TXfCQT/ADgBU2EbxQj0wGePn8Q/utpo8okXy3dzaTYBvox6INvJz+Ef3W0nkMjfTCruDFo3Md/pSRRi6iiwDUyOLysLCKaSBTNo3EZr64RJBIY34ihHpw2TfFXKgyMGU5EYmdzYqi0mmF4pB4YxhuQRluJ3ChJpHtE3/IxF4/Z5+Zcj6irJ4+rucZHCDGxaLxRHI1HPH7ji0YdKu53fvhH50vsvl+9KNGubHdcy7hllCmM5hsqLfh5s4ocv8VddSreeCC9xaz+cLxuLVYWGjaC0PhkGG9DJYN6nI0El7CbgcjisHXfgK656OUarsihhV6HtF4b6sPQaCxqRH4pDkKjgj9xBYMRVhaDuNGTQzsn+GfdrZzRmNvPCqSHbaPynMelJLGbyMLQdRJ6AKKobkf1w3UW8aDaQqueWgqgKBuHc7OeMSL50ZNEO1TkPvCirAqRuOCw5K5A1NZvw3peovDfV1Fujve1SyTdIudFgNtDzr99SxxKXdsgKjgzYdLHz1NGd9FHFh1W+4nMa6otbmP6G8+jLb8vRXYQrH5jBY6hqtEQt8/25/8QAKRABAAECBQMEAgMBAAAAAAAAAREAISAxQVFxEGGBMJGhwUDRcLHw4f/aAAgBAQABPyH+OFxJZFj7GnBIzHc8YBT7lqcFFUkwBl8goZJLn4GcnNV4qnfLqWOgzBpKIlgIGhz6AXCc8APekeN1yGx26N29qZctKGFq0fjv6ogNq58b1Lflx38GlJkaVyuAC07okB9dLmmDG2AkR0iQlaXzjUM6iSvyNPRZmuFNioGsmVBpo5OXA0w5kdOcdh90NeGWh0Mao7UazFjLhbD7wlV2rnzvUZ+SBfyaUUx5XI4pTmbQKgQLcWjd3ehuVqTN09steRqxQLwnwa+aCCCxhh+PeC9RP4N1fmwymTcWPppvZHhmdse0J+MCTnUETQZJ+UcUdoh6GJGlrkp4n+mqVGWgwEaD2kv+4ZejF2akPTYWTvs4ZSu6vFVtzWl9pxSj+2HLUz7PIOm1mJzOGpRn2/8AdIwIZjUos2Vv7e1EZA8UeE0ISNRcZmo42pkK6DPjCwTIcl7vqrKEht0ROBK09LItnhC0LoUlGeyQ81agkBAeisRPI4dKkKzv6jereEkITA7v8M2fvpuGA8TgRgEroVAr81+qjq+R9Vx4IH91bEdG5w06O1CKBzwCBqs+h2pGzs0nE+kND/DauXPmfgvJzmpn7UiJDMLvnBEW968/wX+/45//2gAMAwEAAgADAAAAEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPONfPNPPPPPPPMAt7okvvPPPPASRFfaiU8/fPMfPcNPPd7gn/ADy47Lx+v/617zzzzy1ab1JXzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz/8QAKBEBAAAEBQMEAwEAAAAAAAAAAQARITFBUWFxgRChwZGx0eEgUPAw/9oACAEDAQE/EP1c1RyCvaHaguJJ9HpIpZFB9P8AAOCrYKrEiTSXbtju7QBNpeW66sF0AAcUZzPMXoQm4Q4ea3YlqaThs4dzSLaMSo/e5+IRM1sf1oKqSlXfQjYmcHXrhER2SHROwirzkavE4PuVCxq5uvoEICTDqry8Ph9YQoDBpBhZJiQ0D3Bvn77wYeY1OokTBJ0r99JKvITo8YOpJ1ivEnm3d/nrXoYk5yJUdjfxmMV0lkUmuLfkEBVKwxhjpoDwdb0YmnjH449Ipqezs9J0pkqaS8RUaUwQekD+v0n/AI45x4h1fePycFMc4tgMn5gGrN00CDLySpF+tkpfXeJ8nRPLj7fuf//EACYRAQABAgYCAQUBAAAAAAAAAAERACExQVFhcYEQkSBQobHB4TD/2gAIAQIBAT8Q+llyAb2oGSTwgwv+ACVBUmUuuX9q6s0NjEU0SUs3asOJWGfEMeYX8Bm0hlJpl1dHtNqeGGIkJ00/bBq4f2o1cuL4zKojDWFMWpj5XGGyb2CDiMN/BANGGAd6bMm1HJxaFzk/Zbjy5FvZ7BiuxRMguBL0wB7dyoHsW7hy4fbQsxUYDyKMlQXO5O8+/dXA9TM5PBMkkMZznz+c6tPNg1gmKROb0bBkbFBNivapL+DLl9NGY5mt15f1hofIg4Mymn66wvyMHp6pRBDN8V30jShGkETUSGp0mXVA4BH2TtUafsLhh9zv9Z//xAAnEAEAAQMDBAICAwEAAAAAAAABEQAhMUFRYSBxgZEQwTChQHCx8P/aAAgBAQABPxD+uHKdINbNh5q4AP3MoTydGQHgB/cfBUeKAlcAPugJBCRMP8BoFmRvrDlgpZOUfbw9iDvSqy3amGAaPCajqNGdqx1oDjU4T4lyJPiRPKQUuDTdwC0G3xdjULGPt7bnFZV+WFvsPJ+vy7fWVLYZXBepOhKMjzW72XtUo7QVbq56JfbdoKTyjx8Mh3PhA+CZ8dBhcKEGETFQcKBCDzoO8PLTZsEIG2a67n4SkMigDKrio9JKnH418IOWnaDBwWwWHbpmnUGjfK7Pgc4oBbtKP9dZ+C7GHIaEfDUz6pPsghstvHTjDfChsMDhpRywgX4pe8k7VEmxEe4lnqBImWglfRS4QSAgxD3L40pBISTmpVv7aUvAj4kORJbPdbH+1MGOF18PLn0oCAAgAsdJ86P0aPJD3qSMB6/0PDD0r1RZrXQfsP3TFXg5ByPIyPJ0v0iCxu+86BMATZrBM4F8tRZ7KvS2sSN5Mu833/A3hoArkNquQNVM3mudm3JWXWkR7m5ydF4Ekn/2v0udF5hDRs7r5pD/AAPjpIqjPtn7ENSghhNX9fZjzQySXOmJgrT3P+LUoSB0Hi17vw+1qCOXIVE0bqw9vpfimwhAYR5KMmiRmov6Ber3/wBZYyvKyvL1KS4MBsjmpFfKVl5Zfs7VwygQ3WE5OjFGhiJTuExG63ahQDa4vgkqjsAZa0xxOC3X6pZ6NEFDMd9qudmEe4yfFFSKHA2A/DhEkC7uF1yNRBuVEByx+r3p+RS5GyOOhBFHOiIPa9/Erklxuu/zoSs6AJVqfpbwxUHauJ7Fy/lhZAgJtJdHD+qcv8cB9vdc5+BWEKlX6Oal0BhLqHBg4D4XTB2C4+ynpDhwm46nwpduhk4ZaJIQWc+O3j+AgiJI1Ph8yk3RhTBsxIFsqV99Ao9xG52clHUAyIJ4TQAAEBof1x//2Q==";
+    },
+    function (e, t, a) {
+      e.exports = a.p + "static/media/mechatronics.65507759.jpg";
     },
     function (e, t, a) {
       e.exports = a.p + "static/media/mne.028ec89a.svg";
     },
     function (e, t, a) {
       e.exports = a.p + "static/media/projects_image.b8ba9487.svg";
+    },
+    function (e, t, a) {
+      e.exports = a.p + "static/media/salahibra.d5f6ce4f.png";
     },
     function (e, t, a) {},
     function (e, t, a) {},
@@ -349,16 +332,16 @@
         s = a.n(r),
         l = a(11),
         o = a.n(l),
-        n = a(285),
-        i = a(268),
+        n = a(281),
+        i = a(264),
         c = a(19),
-        m = a(283),
+        m = a(279),
         h = (a(97), a(98), a(7)),
         d = a(5),
         u = (a(99), a(3));
       const p = !1,
         g = {
-          title: "Lahcen Ezzara's Portfolio",
+          title: "Ibrahim Salah's Portfolio",
           description:
             "Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca | Python Enthusiast.",
           og: {
@@ -367,13 +350,13 @@
             url: "https://salahibra.github.io",
           },
         },
-        f = "Lahcen EZZARA",
-        b = "LahcenEzzara",
+        f = "Salah Ibrahim",
+        b = "IbrahimSalah",
         C = "",
-        E =
-          "Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca.",
         y =
-          "https://drive.google.com/file/d/1TWF96CCjZDHXyDMQd_KwRcU4y9TR3yUV/view?usp=sharing",
+          "Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca.",
+        E =
+          "https://drive.google.com/file/d/1EQmU-lFUiXjUrF0OOKvjjzHvWR9tlxPC/view?usp=sharing",
         v = "https://github.com/salahibra/salahibra.github.io",
         w = "https://github.com/salahibra",
         x = [
@@ -385,7 +368,7 @@
           },
           {
             name: "Gmail",
-            link: "mailto:ibrahimsalahzefri75@gmail.com",
+            link: "mailto:ibrahim.salah.officiel@gmail.com",
             fontAwesomeIcon: "fas fa-envelope",
             backgroundColor: "#D14836",
           },
@@ -415,7 +398,7 @@
           },
           {
             name: "Instagram",
-            link: "https://www.instagram.com/lahcenezzara",
+            link: "https://www.instagram.com/ibrahimxsalah",
             fontAwesomeIcon: "fa-instagram",
             backgroundColor: "#E4405F",
           },
@@ -429,9 +412,47 @@
                 "\u26a1 Enterprise Software Development",
                 "\u26a1 Web Development",
                 "\u26a1 Mobile Development",
-                "\u26a1 Desktop Development",
+                "\u26a1 Artificial Intelligence development",
+                "\u26a1 Machine Learning",
+                "\u26a1 Deep Learning techniques",
+                "\u26a1 Virtual Reality and Augmented Reality",
               ],
               softwareSkills: [
+                {
+                  skillName: "Java",
+                  fontAwesomeClassname: "simple-icons:java",
+                  style: { color: "#007396" },
+                },
+                {
+                  skillName: "spring boot",
+                  fontAwesomeClassname: "simple-icons:spring",
+                  style: { color: "#6DB33F" },
+                },
+                {
+                  skillName: "PyTorch",
+                  fontAwesomeClassname: "simple-icons:pytorch",
+                  style: { color: "#EE4C2C" },
+                },
+                {
+                  skillName: "OpenCV",
+                  fontAwesomeClassname: "simple-icons:opencv",
+                  style: { color: "#5C3EE8" },
+                },
+                {
+                  skillName: "TensorFlow",
+                  fontAwesomeClassname: "simple-icons:tensorflow",
+                  style: { color: "#FF6F00" },
+                },
+                {
+                  skillName: "Android Development",
+                  fontAwesomeClassname: "simple-icons:android",
+                  style: { color: "#3DDC84" },
+                },
+                {
+                  skillName: "Angular",
+                  fontAwesomeClassname: "simple-icons:angular",
+                  style: { color: "#DD0031" },
+                },
                 {
                   skillName: "HTML5",
                   fontAwesomeClassname: "simple-icons:html5",
@@ -441,6 +462,16 @@
                   skillName: "CSS3",
                   fontAwesomeClassname: "fa-css3",
                   style: { color: "#1572B6" },
+                },
+                {
+                  skillName: "Unity",
+                  fontAwesomeClassname: "simple-icons:unity",
+                  style: { color: "#000000" },
+                },
+                {
+                  skillName: "Business Intelligence",
+                  fontAwesomeClassname: "simple-icons:powerbi",
+                  style: { color: "#F2C811" },
                 },
                 {
                   skillName: "JavaScript",
@@ -453,8 +484,8 @@
                   style: { color: "#61DAFB" },
                 },
                 {
-                  skillName: "Spring",
-                  fontAwesomeClassname: "simple-icons:spring",
+                  skillName: "laravel",
+                  fontAwesomeClassname: "simple-icons:laravel",
                   style: { color: "#6DB33F" },
                 },
                 {
@@ -482,37 +513,37 @@
               siteName: "LeetCode",
               iconifyClassname: "simple-icons:leetcode",
               style: { color: "#F79F1B" },
-              profileLink: "https://leetcode.com/LahcenEzzara",
+              profileLink: "https://leetcode.com/u/Salahibra/",
             },
             {
               siteName: "HackerRank",
               iconifyClassname: "simple-icons:hackerrank",
               style: { color: "#2EC866" },
-              profileLink: "https://www.hackerrank.com/profile/LahcenEzzara",
+              profileLink: "https://www.hackerrank.com/profile/#",
             },
             {
               siteName: "Codechef",
               iconifyClassname: "simple-icons:codechef",
               style: { color: "#5B4638" },
-              profileLink: "https://www.codechef.com/users/lahcenezzara",
+              profileLink: "https://www.codechef.com/users/salahibra",
             },
             {
               siteName: "Codeforces",
               iconifyClassname: "simple-icons:codeforces",
               style: { color: "#1F8ACB" },
-              profileLink: "https://codeforces.com/profile/LahcenEzzara",
+              profileLink: "https://codeforces.com/profile/#",
             },
             {
               siteName: "Hackerearth",
               iconifyClassname: "simple-icons:hackerearth",
               style: { color: "#323754" },
-              profileLink: "https://www.hackerearth.com/@LahcenEzzara",
+              profileLink: "https://www.hackerearth.com/@ibrahimsalahzefri75/",
             },
             {
               siteName: "Kaggle",
               iconifyClassname: "simple-icons:kaggle",
               style: { color: "#20BEFF" },
-              profileLink: "https://www.kaggle.com/lahcenezzara",
+              profileLink: "https://www.kaggle.com/salahibra",
             },
           ],
         },
@@ -523,33 +554,29 @@
               subtitle: "State Engineer",
               logo_path: "ensam.svg",
               alt_name: "ENSAM CASA",
-              duration: "2022 - 2025",
+              duration: "2023 - present",
               descriptions: [
                 "\u26a1 Artificial Intelligence & Computer Engineering.",
               ],
               website_link: "http://www.ensam-casa.ma",
             },
             {
-              title: "CPGE - Classes Pr\xe9paratoires aux Grandes Ecoles",
-              subtitle: "Preparatory Classes",
-              logo_path: "cpge.svg",
-              alt_name: "CPGE",
-              duration: "2020 - 2022",
-              descriptions: [
-                "\u26a1 Preparatory Classes - Mathematics, Physics and Engineering Sciences (MPSI).",
-              ],
-              website_link: "https://www.cpge.ac.ma",
+              title: "Classes Pr\xe9paratoires Integr\xe9es - ENSAM Casablanca",
+              subtitle: "integrated preparatory classes",
+              logo_path: "ensam.svg",
+              alt_name: "Ensam Casa",
+              duration: "2021 - 2023",
+              descriptions: ["\u26a1 integrated preparatory classes "],
+              website_link: "http://www.ensam-casa.ma",
             },
             {
               title:
-                "Ministry of National Education (Morocco) - Abatih High School",
+                "Ministry of National Education (Morocco) - Abdelkader Nakhcha High School",
               subtitle: "Baccalaureate Certificate",
               logo_path: "mne.svg",
               alt_name: "MNE",
-              duration: "2019 - 2020",
-              descriptions: [
-                "\u26a1 Mathematics - International Branch of Mathematical Sciences A French Option.",
-              ],
+              duration: "2020 - 2021",
+              descriptions: ["\u26a1 physical sciences."],
               website_link: "https://www.men.gov.ma/en/Pages/Accueil.aspx",
             },
           ],
@@ -557,143 +584,30 @@
         k = {
           certifications: [
             {
-              title: "Python for beginners",
-              subtitle: "Microsoft",
-              logo_path: "microsoft_logo.png",
+              title: "Oracle Certified Professional: Java SE 17 Developer",
+              subtitle: "Oracle",
+              logo_path: "OCPJSE17.jpg",
               certificate_link:
-                "https://drive.google.com/file/d/1W1zmoE7lMx8CJdHTkAY0WK92p-Jd82Bl/view?usp=share_link",
-              alt_name: "Microsoft",
+                "https://drive.google.com/file/d/16f09FvLAO3qKDUV5gRtosDFCFwlQ6OYj/view?usp=sharing",
+              alt_name: "Oracle",
               color_code: "#4285F499",
             },
             {
-              title: "Learn the basics of the Python Language",
-              subtitle: "OpenClassrooms",
-              logo_path: "OpenClassrooms.png",
+              title: "NDG LINUX ESSENTIALS",
+              subtitle: "Cisco Networking Academy",
+              logo_path: "Cisco_Networking_Academy.svg.png",
               certificate_link:
-                "https://drive.google.com/file/d/1TRbsdtFlcpOzajzUGPP6fmWNrnwNMncU/view?usp=share_link",
-              alt_name: "OpenClassrooms",
+                "https://drive.google.com/file/d/1wGC8J01wazYJ4_rE-YqhK9KPEKJ8iW4n/view?usp=sharing",
+              alt_name: "Cisco Networking Academy",
               color_code: "#4285F499",
             },
             {
-              title: "Manage code with Git and GitHub",
-              subtitle: "OpenClassrooms",
-              logo_path: "OpenClassrooms.png",
+              title: "CLA: Programming Essentials in C",
+              subtitle: "Cisco Networking Academy",
+              logo_path: "Cisco_Networking_Academy.svg.png",
               certificate_link:
-                "https://drive.google.com/file/d/1pzsxr1kR9BALzmtlKPGrMsA-q7HZTPBr/view?usp=share_link",
-              alt_name: "OpenClassrooms",
-              color_code: "#4285F499",
-            },
-            {
-              title: "Learn to program in C",
-              subtitle: "OpenClassrooms",
-              logo_path: "OpenClassrooms.png",
-              certificate_link:
-                "https://drive.google.com/file/d/1VwKG1k_2evyqFzmTWUFr5iGpY3MYdFVb/view?usp=share_link",
-              alt_name: "OpenClassrooms",
-              color_code: "#4285F499",
-            },
-            {
-              title: "Get started with Linux",
-              subtitle: "OpenClassrooms",
-              logo_path: "OpenClassrooms.png",
-              certificate_link:
-                "https://drive.google.com/file/d/1EmI2SVk2Cav_GDFukCNySf2B-ncwIZdg/view?usp=share_link",
-              alt_name: "OpenClassrooms",
-              color_code: "#4285F499",
-            },
-            {
-              title: "Set up your front-end environment",
-              subtitle: "OpenClassrooms",
-              logo_path: "OpenClassrooms.png",
-              certificate_link:
-                "https://drive.google.com/file/d/1VIJcTte0OrsNp-q3Fb5_NC1wXNL1XNhG/view?usp=share_link",
-              alt_name: "OpenClassrooms",
-              color_code: "#4285F499",
-            },
-            {
-              title: "Build a Full Website using WordPress",
-              subtitle: "Coursera",
-              logo_path: "coursera.png",
-              certificate_link: "https://coursera.org/verify/8UGGLYKSGLPT",
-              alt_name: "Coursera",
-              color_code: "#4285F499",
-            },
-            {
-              title:
-                "Create a modern and professional website with WordPress 5",
-              subtitle: "OpenClassrooms",
-              logo_path: "OpenClassrooms.png",
-              certificate_link:
-                "https://drive.google.com/file/d/15rFPlpZ_numQCEjo2R--gKAYfmA7utGZ/view?usp=share_link",
-              alt_name: "OpenClassrooms",
-              color_code: "#4285F499",
-            },
-            {
-              title: "Create a Profile and Network on LinkedIn",
-              subtitle: "Coursera",
-              logo_path: "coursera.png",
-              certificate_link: "https://coursera.org/verify/5LZSN92ZJGDC",
-              alt_name: "Coursera",
-              color_code: "#4285F499",
-            },
-            {
-              title: "Small Business Marketing Using LinkedIn",
-              subtitle: "Coursera",
-              logo_path: "coursera.png",
-              certificate_link: "https://coursera.org/verify/2W42DWNE54GD",
-              alt_name: "Coursera",
-              color_code: "#4285F499",
-            },
-            {
-              title: "Create a Facebook Business Page",
-              subtitle: "Coursera",
-              logo_path: "coursera.png",
-              certificate_link: "https://coursera.org/verify/YSR62ZP3G5FY",
-              alt_name: "Coursera",
-              color_code: "#4285F499",
-            },
-            {
-              title: "How to Create an Instagram Business Account",
-              subtitle: "Coursera",
-              logo_path: "coursera.png",
-              certificate_link: "https://coursera.org/verify/RSHE247B8JE4",
-              alt_name: "Coursera",
-              color_code: "#4285F499",
-            },
-            {
-              title: "Effective Leadership",
-              subtitle: "HP LIFE",
-              logo_path: "hp-life.svg",
-              certificate_link:
-                "https://www.life-global.org/certificate/cd847f1d-9041-4e0f-94b8-6d9956d7af19",
-              alt_name: "Coursera",
-              color_code: "#4285F499",
-            },
-            {
-              title: "Small Business Skills 101",
-              subtitle: "Alison - Empower Yourself",
-              logo_path: "Alison.svg",
-              certificate_link:
-                "https://drive.google.com/file/d/1-sJ1abt-Ks_Kr5ROKvN1g_zyJhyQo8Ix/view?usp=share_link",
-              alt_name: "Alison",
-              color_code: "#4285F499",
-            },
-            {
-              title: "Build your professional project",
-              subtitle: "OpenClassrooms",
-              logo_path: "OpenClassrooms.png",
-              certificate_link:
-                "https://drive.google.com/file/d/1XaHnIKZ5oNVJx5uUcboFrH30hip3s--6/view?usp=share_link",
-              alt_name: "OpenClassrooms",
-              color_code: "#4285F499",
-            },
-            {
-              title: "Master the fundamentals of Excel",
-              subtitle: "OpenClassrooms",
-              logo_path: "OpenClassrooms.png",
-              certificate_link:
-                "https://drive.google.com/file/d/15JYp5zWbB3cZLa1o_puwQteazLOXYCe1/view?usp=share_link",
-              alt_name: "OpenClassrooms",
+                "https://drive.google.com/file/d/1AwbGSFdR_V74NySfYE9Jt5LIrx4kAb7N/view?usp=sharing",
+              alt_name: "Cisco Networking Academy",
               color_code: "#4285F499",
             },
             {
@@ -708,7 +622,7 @@
         },
         N = {
           title: "Experience",
-          subtitle: "Work, Internship and Volunteership",
+          subtitle: "Work, Internship and Volunteerships",
           description: "",
           header_image_path: "experience.svg",
           sections: [
@@ -717,14 +631,27 @@
               work: !0,
               experiences: [
                 {
-                  title: "Head of the Club",
-                  company: "A&C PowerSkills Club",
-                  company_url: "https://www.instagram.com/aec.powerskills/",
-                  logo_path: "aec.jpg",
-                  duration: "January 2024 - Present",
-                  location: "CasaBlanca, Morocco",
+                  title: "Membre",
+                  company: "GDG on Campus ENSAM Casablanca ",
+                  company_url:
+                    "https://www.linkedin.com/company/gdg-on-campus-ensam-casablanca/posts/?feedView=all",
+                  logo_path: "gdg.jpg",
+                  duration: "September 2024 - Present",
+                  location: "Casablanca, Morocco",
                   description:
-                    "I am responsible for the management of the club, the organization of events and the supervision of the club's activities.",
+                    "Active participation in Google Developer Groups (GDG) community initiatives: conferences, workshops.",
+                  color: "#0879bf",
+                },
+                {
+                  title: "Membre",
+                  company: "Art et M\xe9tiers Mechatronics",
+                  company_url:
+                    "https://www.linkedin.com/in/arts-et-m%C3%A9tiers-mechatronics-4825561ba/",
+                  logo_path: "mechatronics.jpg",
+                  duration: "September 2022 - juin 2023",
+                  location: "Casablanca, Morocco",
+                  description:
+                    "Involvement in student projects related to mechatronics (design, prototyping, robotics.)",
                   color: "#0879bf",
                 },
               ],
@@ -733,31 +660,16 @@
               title: "Internships",
               experiences: [
                 {
-                  title: "Software Engineer Intern",
-                  company: "HE GROUPE",
-                  company_url: "https://www.linkedin.com/company/he-groupe/",
-                  logo_path: "hegroupe.png",
-                  duration: "August 15, 2023 - September 15, 2023",
-                  location: "Marrakech, Morocco",
+                  title: "Intern , Data Analysis and Visualization,",
+                  company:
+                    " Presidency of Hassan II University , Department of Information Systems",
+                  company_url: "https://www.univh2c.ma/",
+                  logo_path: "UH2.png",
+                  duration: "Juillet 1, 2024 - Juillet 31, 2024",
+                  location: "Casablanca, Morocco",
                   description:
-                    "I worked on the development of a web application for the management of the company's store.",
+                    "Developed and deployed a Streamlit-based bibliometric analysis tool using Python, Pandas, and Seaborn for data processing and visualization.",
                   color: "#000000",
-                },
-              ],
-            },
-            {
-              title: "Volunteerships",
-              experiences: [
-                {
-                  title: "Python Trainer",
-                  company: "Python for CPGE",
-                  company_url: "/",
-                  logo_path: "Python-for-CPGE.png",
-                  duration: "February 2023 - Present",
-                  location: "Online",
-                  description:
-                    "I am responsible for the training of students in the use of Python programming language.",
-                  color: "#4285F4",
                 },
               ],
             },
@@ -766,36 +678,20 @@
         D = "Projects",
         U =
           "My projects makes use of vast variety of latest technology tools. My best experience is to create Web Projects and deploy them to web applications using cloud infrastructure.",
-        S = "Publications",
-        T =
-          "I have worked on and published a few research papers and publications of my own.",
         F = {
-          data: [
-            {
-              id: "1",
-              name: "Propagation du Covid-19 : Approche math\xe9matique",
-              createdAt: "2022-07-22",
-              description:
-                "Mod\xe9liser l\u2019\xe9pid\xe9mie de COVID-19 en se basant sur le mod\xe8le SIR.\nCalcul et interpr\xe9tation des param\xe8tres de COVID-19.\nR\xe9alisation d'un Portail de surveillance et de sensibilisation COVID-19 dans un centre CPGE. ",
-              url:
-                "https://drive.google.com/drive/folders/1VoUEgbHp_sHnLz5MPnlAmonNS1oU0dn9",
-            },
-          ],
-        },
-        B = {
           title: "Contact Me",
-          profile_image_path: "lahcen.png",
+          profile_image_path: "salahibra.png",
           description:
             "I am available on almost every social media. You can message me, I will reply within 24 hours.",
         },
-        O = {
+        S = {
           title: "Blogs",
           subtitle:
             "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
           link: "/",
           avatar_image_path: "blogs_image.svg",
         },
-        z = {
+        T = {
           title: "Address",
           subtitle:
             "ENSAM Casablanca, 150 Bd du Nil, Casablanca 20670, Prefecture of Casablanca, Casablanca-Settat, Morocco.",
@@ -807,9 +703,9 @@
           avatar_image_path: "address_image.svg",
           location_map_link: "https://maps.app.goo.gl/iDYpii4j3mai1zWk9",
         },
-        H = { title: "", subtitle: "" };
-      var R = a(81);
-      var G = function () {
+        B = { title: "", subtitle: "" };
+      var z = a(81);
+      var O = function () {
         var e, t, a, r, l, o, n, i, c, m, h, d, u;
         let p = [];
         x.filter(
@@ -829,9 +725,9 @@
             void 0 === a
               ? void 0
               : a.at(0),
-          E = [];
+          y = [];
         k.certifications.forEach((e) => {
-          E.push({
+          y.push({
             "@context": "https://schema.org",
             "@type": "EducationalOccupationalCredential",
             url: e.certificate_link,
@@ -839,7 +735,7 @@
             description: e.subtitle,
           });
         });
-        const y = {
+        const E = {
           "@context": "https://schema.org/",
           "@type": "Person",
           name: f,
@@ -848,26 +744,26 @@
               ? void 0
               : r.url,
           email: b,
-          telephone: null === (l = H) || void 0 === l ? void 0 : l.subtitle,
+          telephone: null === (l = B) || void 0 === l ? void 0 : l.subtitle,
           sameAs: p,
           jobTitle: C.title,
           worksFor: { "@type": "Organization", name: C.company },
           address: {
             "@type": "PostalAddress",
             addressLocality:
-              null === (o = z) || void 0 === o ? void 0 : o.locality,
-            addressRegion: null === (n = z) || void 0 === n ? void 0 : n.region,
+              null === (o = T) || void 0 === o ? void 0 : o.locality,
+            addressRegion: null === (n = T) || void 0 === n ? void 0 : n.region,
             addressCountry:
-              null === (i = z) || void 0 === i ? void 0 : i.country,
+              null === (i = T) || void 0 === i ? void 0 : i.country,
             postalCode:
-              null === (c = z) || void 0 === c ? void 0 : c.postalCode,
+              null === (c = T) || void 0 === c ? void 0 : c.postalCode,
             streetAddress:
-              null === (m = z) || void 0 === m ? void 0 : m.streetAddress,
+              null === (m = T) || void 0 === m ? void 0 : m.streetAddress,
           },
-          hasCredential: E,
+          hasCredential: y,
         };
         return s.a.createElement(
-          R.a,
+          z.a,
           null,
           s.a.createElement("title", null, g.title),
           s.a.createElement("meta", {
@@ -898,24 +794,24 @@
           s.a.createElement(
             "script",
             { type: "application/ld+json" },
-            JSON.stringify(y)
+            JSON.stringify(E)
           )
         );
       };
-      const X = (e, t) => {
+      const H = (e, t) => {
           e.target.style.backgroundColor = t;
         },
-        L = (e) => {
+        R = (e) => {
           e.target.style.backgroundColor = "transparent";
         };
-      class I extends r.Component {
+      class G extends r.Component {
         render() {
           const e = this.props.theme,
             t = p ? "/splash" : "home";
           return s.a.createElement(
             u.Fade,
             { top: !0, duration: 1e3, distance: "20px" },
-            s.a.createElement(G, null),
+            s.a.createElement(O, null),
             s.a.createElement(
               "div",
               null,
@@ -956,8 +852,8 @@
                         tag: h.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: e.text },
-                        onMouseEnter: (t) => X(t, e.highlight),
-                        onMouseOut: (e) => L(e),
+                        onMouseEnter: (t) => H(t, e.highlight),
+                        onMouseOut: (e) => R(e),
                       },
                       "Home"
                     )
@@ -972,8 +868,8 @@
                         tag: h.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: e.text },
-                        onMouseEnter: (t) => X(t, e.highlight),
-                        onMouseOut: (e) => L(e),
+                        onMouseEnter: (t) => H(t, e.highlight),
+                        onMouseOut: (e) => R(e),
                       },
                       "Education"
                     )
@@ -988,8 +884,8 @@
                         tag: h.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: e.text },
-                        onMouseEnter: (t) => X(t, e.highlight),
-                        onMouseOut: (e) => L(e),
+                        onMouseEnter: (t) => H(t, e.highlight),
+                        onMouseOut: (e) => R(e),
                       },
                       "Experience"
                     )
@@ -1004,8 +900,8 @@
                         tag: h.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: e.text },
-                        onMouseEnter: (t) => X(t, e.highlight),
-                        onMouseOut: (e) => L(e),
+                        onMouseEnter: (t) => H(t, e.highlight),
+                        onMouseOut: (e) => R(e),
                       },
                       "Projects"
                     )
@@ -1020,8 +916,8 @@
                         tag: h.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: e.text },
-                        onMouseEnter: (t) => X(t, e.highlight),
-                        onMouseOut: (e) => L(e),
+                        onMouseEnter: (t) => H(t, e.highlight),
+                        onMouseOut: (e) => R(e),
                       },
                       "Contact Me"
                     )
@@ -1032,13 +928,13 @@
           );
         }
       }
-      var _,
-        j = I,
-        Q = (a(116), a(40)),
-        V = (a(117), a(21));
-      const q = V.c.span(
-        _ ||
-          (_ = Object(Q.a)([
+      var X,
+        j = G,
+        P = (a(116), a(40)),
+        L = (a(117), a(21));
+      const _ = L.c.span(
+        X ||
+          (X = Object(P.a)([
             "\n  i {\n    background-color: ",
             ";\n  }\n  &:hover i {\n    background-color: ",
             ";\n    transition: 0.3s ease-in;\n  }\n",
@@ -1049,7 +945,7 @@
           return t.text;
         }
       );
-      function P(e) {
+      function I(e) {
         return s.a.createElement(
           "div",
           { className: "social-media-div" },
@@ -1064,7 +960,7 @@
                 rel: "noopener noreferrer",
               },
               s.a.createElement(
-                q,
+                _,
                 Object.assign({}, t, e),
                 s.a.createElement("i", {
                   className: "fab ".concat(t.fontAwesomeIcon),
@@ -1075,7 +971,7 @@
         );
       }
       a(119);
-      function W(e) {
+      function q(e) {
         let { text: t, className: a, href: r, newTab: l, theme: o } = e;
         return s.a.createElement(
           "div",
@@ -1106,7 +1002,7 @@
           )
         );
       }
-      class Y extends r.Component {
+      class V extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -1510,8 +1406,8 @@
           );
         }
       }
-      var K = Y;
-      function J(e) {
+      var Q = V;
+      function W(e) {
         const t = e.theme;
         return s.a.createElement(
           u.Fade,
@@ -1550,13 +1446,13 @@
                       className: "greeting-text-p subTitle",
                       style: { color: t.secondaryText },
                     },
-                    E
+                    y
                   ),
-                  s.a.createElement(P, { theme: t }),
+                  s.a.createElement(I, { theme: t }),
                   s.a.createElement(
                     "div",
                     { className: "portfolio-repo-btn-div" },
-                    s.a.createElement(W, {
+                    s.a.createElement(q, {
                       text: "\u2b50 Star Me On Github",
                       newTab: !0,
                       href: v,
@@ -1569,16 +1465,16 @@
               s.a.createElement(
                 "div",
                 { className: "greeting-image-div" },
-                s.a.createElement(K, { theme: t })
+                s.a.createElement(Q, { theme: t })
               )
             )
           )
         );
       }
       a(65), a(120);
-      var $ = a(282),
-        ee = a(280);
-      class te extends s.a.Component {
+      var Y = a(278),
+        J = a(276);
+      class K extends s.a.Component {
         render() {
           return s.a.createElement(
             "div",
@@ -1591,12 +1487,12 @@
                 { className: "dev-icons" },
                 this.props.logos.map((e) =>
                   s.a.createElement(
-                    $.a,
+                    Y.a,
                     {
                       key: e.skillName,
                       placement: "top",
                       overlay: s.a.createElement(
-                        ee.a,
+                        J.a,
                         { id: "tooltip-top" },
                         s.a.createElement("strong", null, e.skillName)
                       ),
@@ -1627,8 +1523,8 @@
           );
         }
       }
-      var ae = te;
-      class re extends r.Component {
+      var $ = K;
+      class ee extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -2003,7 +1899,7 @@
           );
         }
       }
-      class se extends r.Component {
+      class te extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -2300,7 +2196,7 @@
           );
         }
       }
-      class le extends r.Component {
+      class ae extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -2660,7 +2556,7 @@
           );
         }
       }
-      class oe extends r.Component {
+      class re extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -3851,16 +3747,16 @@
           );
         }
       }
-      function ne(e) {
+      function se(e) {
         return "DataScienceImg" === e.fileName
-          ? s.a.createElement(re, { theme: e.theme })
+          ? s.a.createElement(ee, { theme: e.theme })
           : "FullStackImg" === e.fileName
-          ? s.a.createElement(se, { theme: e.theme })
+          ? s.a.createElement(te, { theme: e.theme })
           : "CloudInfraImg" === e.fileName
-          ? s.a.createElement(le, { theme: e.theme })
-          : s.a.createElement(oe, { theme: e.theme });
+          ? s.a.createElement(ae, { theme: e.theme })
+          : s.a.createElement(re, { theme: e.theme });
       }
-      class ie extends r.Component {
+      class le extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -3876,7 +3772,7 @@
                   s.a.createElement(
                     "div",
                     { className: "skills-image-div" },
-                    s.a.createElement(ne, { fileName: t.fileName, theme: e })
+                    s.a.createElement(se, { fileName: t.fileName, theme: e })
                   )
                 ),
                 s.a.createElement(
@@ -3894,7 +3790,7 @@
                   s.a.createElement(
                     u.Fade,
                     { right: !0, duration: 1500 },
-                    s.a.createElement(ae, { logos: t.softwareSkills })
+                    s.a.createElement($, { logos: t.softwareSkills })
                   ),
                   s.a.createElement(
                     u.Fade,
@@ -3921,8 +3817,8 @@
           );
         }
       }
-      var ce = ie;
-      function me(e) {
+      var oe = le;
+      function ne(e) {
         const t = e.theme;
         return s.a.createElement(
           "div",
@@ -3940,11 +3836,11 @@
               )
             )
           ),
-          s.a.createElement(ce, { theme: t })
+          s.a.createElement(oe, { theme: t })
         );
       }
       a(122);
-      function he(e) {
+      function ie(e) {
         return s.a.createElement(
           "div",
           { className: "footer-div" },
@@ -3966,7 +3862,7 @@
         );
       }
       a(123);
-      function de(e) {
+      function ce(e) {
         let { theme: t } = e;
         window.onscroll = function () {
           document.body.scrollTop > 30 ||
@@ -4012,22 +3908,22 @@
           })
         );
       }
-      class ue extends r.Component {
+      class me extends r.Component {
         render() {
           return s.a.createElement(
             "div",
             null,
             s.a.createElement(j, { theme: this.props.theme }),
-            s.a.createElement(J, { theme: this.props.theme }),
-            s.a.createElement(me, { theme: this.props.theme }),
-            s.a.createElement(he, { theme: this.props.theme }),
-            s.a.createElement(de, { theme: this.props.theme })
+            s.a.createElement(W, { theme: this.props.theme }),
+            s.a.createElement(ne, { theme: this.props.theme }),
+            s.a.createElement(ie, { theme: this.props.theme }),
+            s.a.createElement(ce, { theme: this.props.theme })
           );
         }
       }
-      var pe = ue;
+      var he = me;
       a(124), a(125);
-      class ge extends s.a.Component {
+      class de extends s.a.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -4265,8 +4161,8 @@
           );
         }
       }
-      var fe = ge;
-      function be(e) {
+      var ue = de;
+      function pe(e) {
         return s.a.createElement(
           "div",
           { className: "logo_wrapper" },
@@ -4276,11 +4172,11 @@
               className: "screen",
               style: { backgroundColor: e.theme.splashBg },
             },
-            s.a.createElement(fe, { id: "logo", theme: e.theme })
+            s.a.createElement(ue, { id: "logo", theme: e.theme })
           )
         );
       }
-      class Ce extends r.Component {
+      class ge extends r.Component {
         constructor(e) {
           super(e), (this.state = { redirect: !1 });
         }
@@ -4293,12 +4189,12 @@
         render() {
           return this.state.redirect
             ? s.a.createElement(d.a, { to: "/home" })
-            : s.a.createElement(be, { theme: this.props.theme });
+            : s.a.createElement(pe, { theme: this.props.theme });
         }
       }
-      var Ee = Ce;
+      var fe = ge;
       a(126), a(127);
-      class ye extends r.Component {
+      class be extends r.Component {
         render() {
           const e = this.props.degree,
             t = this.props.theme;
@@ -4399,8 +4295,8 @@
           );
         }
       }
-      var ve = ye;
-      class we extends r.Component {
+      var Ce = be;
+      class ye extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -4423,15 +4319,15 @@
               "div",
               { className: "educations-body-div" },
               Z.degrees.map((t) =>
-                s.a.createElement(ve, { degree: t, theme: e })
+                s.a.createElement(Ce, { degree: t, theme: e })
               )
             )
           );
         }
       }
-      var xe = we;
-      a(147), a(148);
-      class Me extends r.Component {
+      var Ee = ye;
+      a(143), a(144);
+      class ve extends r.Component {
         render() {
           const e = this.props.certificate,
             t = this.props.theme;
@@ -4496,8 +4392,8 @@
           );
         }
       }
-      var Ae = Me;
-      class Ze extends r.Component {
+      var we = ve;
+      class xe extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -4520,15 +4416,15 @@
               "div",
               { className: "certs-body-div" },
               k.certifications.map((t) =>
-                s.a.createElement(Ae, { certificate: t, theme: e })
+                s.a.createElement(we, { certificate: t, theme: e })
               )
             )
           );
         }
       }
-      var ke = Ze;
-      a(149);
-      class Ne extends s.a.Component {
+      var Me = xe;
+      a(145);
+      class Ae extends s.a.Component {
         render() {
           return s.a.createElement(
             "div",
@@ -4538,13 +4434,13 @@
               { className: "dev-icons" },
               this.props.logos.map((e) =>
                 s.a.createElement(
-                  $.a,
+                  Y.a,
                   {
                     key: e.siteName,
                     placement: "top",
                     style: { marginBottom: "5px" },
                     overlay: s.a.createElement(
-                      ee.a,
+                      J.a,
                       { id: "tooltip-top" },
                       s.a.createElement("strong", null, e.siteName)
                     ),
@@ -4573,8 +4469,8 @@
           );
         }
       }
-      var De = Ne;
-      class Ue extends r.Component {
+      var Ze = Ae;
+      class ke extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -4880,8 +4776,8 @@
           );
         }
       }
-      a(150);
-      class Se extends r.Component {
+      a(146);
+      class Ne extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -4900,7 +4796,7 @@
                   s.a.createElement(
                     "div",
                     { className: "heading-img-div" },
-                    s.a.createElement(Ue, { theme: e })
+                    s.a.createElement(ke, { theme: e })
                   ),
                   s.a.createElement(
                     "div",
@@ -4918,23 +4814,23 @@
                       },
                       "Basic Qualification and Certifcations"
                     ),
-                    s.a.createElement(De, { logos: A.competitiveSites })
+                    s.a.createElement(Ze, { logos: A.competitiveSites })
                   )
                 )
               ),
-              s.a.createElement(xe, { theme: this.props.theme }),
+              s.a.createElement(Ee, { theme: this.props.theme }),
               k.certifications.length > 0
-                ? s.a.createElement(ke, { theme: this.props.theme })
+                ? s.a.createElement(Me, { theme: this.props.theme })
                 : null
             ),
-            s.a.createElement(he, { theme: this.props.theme }),
-            s.a.createElement(de, { theme: this.props.theme })
+            s.a.createElement(ie, { theme: this.props.theme }),
+            s.a.createElement(ce, { theme: this.props.theme })
           );
         }
       }
-      var Te = Se;
-      a(151);
-      class Fe extends r.Component {
+      var De = Ne;
+      a(147);
+      class Ue extends r.Component {
         render() {
           const e = this.props.experience,
             t = this.props.index,
@@ -5078,21 +4974,21 @@
           );
         }
       }
-      var Be = Fe,
-        Oe = (a(152), a(286)),
-        ze = a(284);
-      class He extends r.Component {
+      var Fe = Ue,
+        Se = (a(148), a(282)),
+        Te = a(280);
+      class Be extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
             "div",
             { className: "experience-accord" },
             s.a.createElement(
-              Oe.a,
+              Se.a,
               null,
               this.props.sections.map((t) =>
                 s.a.createElement(
-                  ze.a,
+                  Te.a,
                   {
                     className: "accord-panel",
                     title: t.title,
@@ -5116,7 +5012,7 @@
                     },
                   },
                   t.experiences.map((a, r) =>
-                    s.a.createElement(Be, {
+                    s.a.createElement(Fe, {
                       index: r,
                       totalCards: t.experiences.length,
                       experience: a,
@@ -5129,9 +5025,9 @@
           );
         }
       }
-      var Re = He;
-      a(154);
-      class Ge extends r.Component {
+      var ze = Be;
+      a(150);
+      class Oe extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -5566,7 +5462,7 @@
           );
         }
       }
-      class Xe extends r.Component {
+      class He extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -5585,7 +5481,7 @@
                   s.a.createElement(
                     "div",
                     { className: "experience-heading-img-div" },
-                    s.a.createElement(Ge, { theme: e })
+                    s.a.createElement(Oe, { theme: e })
                   ),
                   s.a.createElement(
                     "div",
@@ -5618,25 +5514,25 @@
                 )
               )
             ),
-            s.a.createElement(Re, { sections: N.sections, theme: e }),
-            s.a.createElement(he, {
+            s.a.createElement(ze, { sections: N.sections, theme: e }),
+            s.a.createElement(ie, {
               theme: this.props.theme,
               onToggle: this.props.onToggle,
             }),
-            s.a.createElement(de, { theme: this.props.theme })
+            s.a.createElement(ce, { theme: this.props.theme })
           );
         }
       }
-      var Le = Xe,
-        Ie = a(41),
-        _e = (a(249), a(25));
+      var Re = He,
+        Ge = a(41),
+        Xe = (a(245), a(25));
       class je extends r.Component {
         render() {
           const e = {
             labels: ["Open", "Merged", "Closed"],
             datasets: [
               {
-                data: [_e.open, _e.merged, _e.closed],
+                data: [Xe.open, Xe.merged, Xe.closed],
                 backgroundColor: ["#28a745", "#6f42c1", "#d73a49"],
                 hoverBackgroundColor: ["#28a745dd", "#6f42c1dd", "#d73a49dd"],
               },
@@ -5654,7 +5550,7 @@
                 "Pull Request Distribution"
               )
             ),
-            s.a.createElement(Ie.Doughnut, {
+            s.a.createElement(Ge.Doughnut, {
               data: e,
               options: {
                 padding: "0",
@@ -5667,15 +5563,15 @@
           );
         }
       }
-      var Qe = je,
-        Ve = (a(250), a(31));
-      class qe extends r.Component {
+      var Pe = je,
+        Le = (a(246), a(31));
+      class _e extends r.Component {
         render() {
           const e = {
             labels: ["Open", "Closed"],
             datasets: [
               {
-                data: [Ve.open, Ve.closed],
+                data: [Le.open, Le.closed],
                 backgroundColor: ["#28a745", "#d73a49"],
                 hoverBackgroundColor: ["#28a745dd", "#d73a49dd"],
               },
@@ -5693,7 +5589,7 @@
                 "Issue Distribution"
               )
             ),
-            s.a.createElement(Ie.Doughnut, {
+            s.a.createElement(Ge.Doughnut, {
               data: e,
               options: {
                 margin: "0",
@@ -5706,9 +5602,9 @@
           );
         }
       }
-      var Pe = qe;
-      a(251);
-      class We extends r.Component {
+      var Ie = _e;
+      a(247);
+      class qe extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -5730,15 +5626,15 @@
             s.a.createElement(
               "div",
               { className: "os-charts-body-div" },
-              s.a.createElement(Qe, null),
-              s.a.createElement(Pe, null)
+              s.a.createElement(Pe, null),
+              s.a.createElement(Ie, null)
             )
           );
         }
       }
-      var Ye = We;
-      a(252), a(253);
-      class Ke extends r.Component {
+      var Ve = qe;
+      a(248), a(249);
+      class Qe extends r.Component {
         render() {
           return s.a.createElement(
             "div",
@@ -5748,13 +5644,13 @@
               { className: "dev-icons-orgs" },
               this.props.logos.map((e) =>
                 s.a.createElement(
-                  $.a,
+                  Y.a,
                   {
                     key: e.login,
                     placement: "top",
                     style: { marginBottom: "5px" },
                     overlay: s.a.createElement(
-                      ee.a,
+                      J.a,
                       { id: "tooltip-top" },
                       s.a.createElement("strong", null, e.login)
                     ),
@@ -5778,9 +5674,9 @@
           );
         }
       }
-      var Je = Ke,
-        $e = a(89);
-      class et extends r.Component {
+      var We = Qe,
+        Ye = a(89);
+      class Je extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -5802,13 +5698,13 @@
                 )
               )
             ),
-            s.a.createElement(Je, { logos: $e.data })
+            s.a.createElement(We, { logos: Ye.data })
           );
         }
       }
-      var tt = et;
-      a(254), a(255);
-      class at extends r.Component {
+      var Ke = Je;
+      a(250), a(251);
+      class $e extends r.Component {
         render() {
           const e = this.props.pullRequest;
           var t, a;
@@ -5834,13 +5730,13 @@
           if (null !== e.mergedBy) {
             const t = e.mergedBy.login;
             r = s.a.createElement(
-              $.a,
+              Y.a,
               {
                 key: t,
                 placement: "top",
                 style: { marginBottom: "5px" },
                 overlay: s.a.createElement(
-                  ee.a,
+                  J.a,
                   { id: "tooltip-top" },
                   s.a.createElement("strong", null, "Merged by ".concat(t))
                 ),
@@ -5981,8 +5877,8 @@
           );
         }
       }
-      var rt = at;
-      class st extends r.Component {
+      var et = $e;
+      class tt extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -6007,14 +5903,14 @@
             s.a.createElement(
               "div",
               { className: "pull-request-body-div" },
-              _e.data.map((e) => s.a.createElement(rt, { pullRequest: e }))
+              Xe.data.map((e) => s.a.createElement(et, { pullRequest: e }))
             )
           );
         }
       }
-      var lt = st;
-      a(256), a(257);
-      class ot extends r.Component {
+      var at = tt;
+      a(252), a(253);
+      class rt extends r.Component {
         render() {
           const e = this.props.issue;
           var t, a;
@@ -6034,13 +5930,13 @@
           if (e.assignees.nodes.length > 0) {
             const t = e.assignees.nodes[0].name;
             r = s.a.createElement(
-              $.a,
+              Y.a,
               {
                 key: t,
                 placement: "top",
                 style: { marginBottom: "5px" },
                 overlay: s.a.createElement(
-                  ee.a,
+                  J.a,
                   { id: "tooltip-top" },
                   s.a.createElement("strong", null, "Assigned to ".concat(t))
                 ),
@@ -6150,8 +6046,8 @@
           );
         }
       }
-      var nt = ot;
-      class it extends r.Component {
+      var st = rt;
+      class lt extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -6173,33 +6069,33 @@
             s.a.createElement(
               "div",
               { className: "issues-body-div" },
-              Ve.data.map((e) => s.a.createElement(nt, { issue: e }))
+              Le.data.map((e) => s.a.createElement(st, { issue: e }))
             )
           );
         }
       }
-      var ct = it;
-      a(258);
-      class mt extends r.Component {
+      var ot = lt;
+      a(254);
+      class nt extends r.Component {
         render() {
           return s.a.createElement(
             "div",
             { className: "opensource-main" },
             s.a.createElement(j, { theme: this.props.theme }),
-            s.a.createElement(tt, { theme: this.props.theme }),
-            s.a.createElement(Ye, { theme: this.props.theme }),
-            s.a.createElement(lt, { theme: this.props.theme }),
-            s.a.createElement(ct, { theme: this.props.theme }),
-            s.a.createElement(he, {
+            s.a.createElement(Ke, { theme: this.props.theme }),
+            s.a.createElement(Ve, { theme: this.props.theme }),
+            s.a.createElement(at, { theme: this.props.theme }),
+            s.a.createElement(ot, { theme: this.props.theme }),
+            s.a.createElement(ie, {
               theme: this.props.theme,
               onToggle: this.props.onToggle,
             }),
-            s.a.createElement(de, { theme: this.props.theme })
+            s.a.createElement(ce, { theme: this.props.theme })
           );
         }
       }
-      var ht = mt;
-      class dt extends r.Component {
+      var it = nt;
+      class ct extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -6508,7 +6404,7 @@
           );
         }
       }
-      class ut extends r.Component {
+      class mt extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -6750,12 +6646,12 @@
           );
         }
       }
-      a(259);
-      const pt = B,
-        gt = O,
-        ft = z,
-        bt = H;
-      class Ct extends r.Component {
+      a(255);
+      const ht = F,
+        dt = S,
+        ut = T,
+        pt = B;
+      class gt extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -6775,7 +6671,7 @@
                     "div",
                     { className: "contact-heading-img-div" },
                     s.a.createElement("img", {
-                      src: a(32)("./".concat(pt.profile_image_path)),
+                      src: a(32)("./".concat(ht.profile_image_path)),
                       alt: "",
                     })
                   ),
@@ -6788,7 +6684,7 @@
                         className: "contact-heading-text",
                         style: { color: e.text },
                       },
-                      pt.title
+                      ht.title
                     ),
                     s.a.createElement(
                       "p",
@@ -6796,16 +6692,16 @@
                         className: "contact-header-detail-text subTitle",
                         style: { color: e.secondaryText },
                       },
-                      pt.description
+                      ht.description
                     ),
-                    s.a.createElement(P, { theme: e }),
+                    s.a.createElement(I, { theme: e }),
                     s.a.createElement(
                       "div",
                       { className: "resume-btn-div" },
-                      s.a.createElement(W, {
+                      s.a.createElement(q, {
                         text: "See My Resume",
                         newTab: !0,
-                        href: y,
+                        href: E,
                         theme: e,
                       })
                     )
@@ -6827,7 +6723,7 @@
                         className: "blog-heading-text",
                         style: { color: e.text },
                       },
-                      gt.title
+                      dt.title
                     ),
                     s.a.createElement(
                       "p",
@@ -6835,15 +6731,15 @@
                         className: "blog-header-detail-text subTitle",
                         style: { color: e.secondaryText },
                       },
-                      gt.subtitle
+                      dt.subtitle
                     ),
                     s.a.createElement(
                       "div",
                       { className: "blogsite-btn-div" },
-                      s.a.createElement(W, {
+                      s.a.createElement(q, {
                         text: "Visit My Blogsite",
                         newTab: !0,
-                        href: gt.link,
+                        href: dt.link,
                         theme: e,
                       })
                     )
@@ -6851,7 +6747,7 @@
                   s.a.createElement(
                     "div",
                     { className: "blog-heading-img-div" },
-                    s.a.createElement(dt, { theme: e })
+                    s.a.createElement(ct, { theme: e })
                   )
                 )
               ),
@@ -6864,7 +6760,7 @@
                   s.a.createElement(
                     "div",
                     { className: "contact-heading-img-div" },
-                    s.a.createElement(ut, { theme: e })
+                    s.a.createElement(mt, { theme: e })
                   ),
                   s.a.createElement(
                     "div",
@@ -6875,7 +6771,7 @@
                         className: "address-heading-text",
                         style: { color: e.text },
                       },
-                      ft.title
+                      ut.title
                     ),
                     s.a.createElement(
                       "p",
@@ -6883,7 +6779,7 @@
                         className: "contact-header-detail-text subTitle",
                         style: { color: e.secondaryText },
                       },
-                      ft.subtitle
+                      ut.subtitle
                     ),
                     s.a.createElement(
                       "h1",
@@ -6891,7 +6787,7 @@
                         className: "address-heading-text",
                         style: { color: e.text },
                       },
-                      bt.title
+                      pt.title
                     ),
                     s.a.createElement(
                       "p",
@@ -6899,15 +6795,15 @@
                         className: "contact-header-detail-text subTitle",
                         style: { color: e.secondaryText },
                       },
-                      bt.subtitle
+                      pt.subtitle
                     ),
                     s.a.createElement(
                       "div",
                       { className: "address-btn-div" },
-                      s.a.createElement(W, {
+                      s.a.createElement(q, {
                         text: "Visit on Google Maps",
                         newTab: !0,
-                        href: ft.location_map_link,
+                        href: ut.location_map_link,
                         theme: e,
                       })
                     )
@@ -6915,17 +6811,17 @@
                 )
               )
             ),
-            s.a.createElement(he, {
+            s.a.createElement(ie, {
               theme: this.props.theme,
               onToggle: this.props.onToggle,
             }),
-            s.a.createElement(de, { theme: this.props.theme })
+            s.a.createElement(ce, { theme: this.props.theme })
           );
         }
       }
-      var Et = Ct;
-      a(260);
-      class yt extends r.Component {
+      var ft = gt;
+      a(256);
+      class bt extends r.Component {
         render() {
           return s.a.createElement(
             "div",
@@ -6938,12 +6834,12 @@
                 { className: "dev-icons-languages" },
                 this.props.logos.map((e) =>
                   s.a.createElement(
-                    $.a,
+                    Y.a,
                     {
                       key: e.name,
                       placement: "top",
                       overlay: s.a.createElement(
-                        ee.a,
+                        J.a,
                         { id: "tooltip-top" },
                         s.a.createElement("strong", null, e.name)
                       ),
@@ -6967,9 +6863,9 @@
           );
         }
       }
-      var vt = yt;
-      a(261);
-      function wt(e) {
+      var Ct = bt;
+      a(257);
+      function yt(e) {
         let { repo: t, theme: a } = e;
         return s.a.createElement(
           "div",
@@ -7031,7 +6927,7 @@
                   "Created on ",
                   t.createdAt.split("T")[0]
                 ),
-                s.a.createElement(vt, {
+                s.a.createElement(Ct, {
                   className: "repo-languages",
                   logos: t.languages,
                 })
@@ -7040,64 +6936,10 @@
           )
         );
       }
-      a(262);
-      function xt(e) {
-        let { pub: t, theme: a } = e;
-        return s.a.createElement(
-          "div",
-          {
-            className: "publication-card-div",
-            style: { backgroundColor: a.highlight },
-          },
-          s.a.createElement(
-            u.Fade,
-            { bottom: !0, duration: 2e3, distance: "40px" },
-            s.a.createElement(
-              "div",
-              {
-                key: t.id,
-                onClick: () => {
-                  return (e = t.url), void window.open(e, "_blank").focus();
-                  var e;
-                },
-              },
-              s.a.createElement(
-                "div",
-                { className: "publication-name-div" },
-                s.a.createElement(
-                  "p",
-                  { className: "publication-name", style: { color: a.text } },
-                  t.name
-                )
-              ),
-              s.a.createElement(
-                "p",
-                {
-                  className: "publication-description",
-                  style: { color: a.text },
-                },
-                t.description
-              ),
-              s.a.createElement(
-                "div",
-                { className: "publication-details" },
-                s.a.createElement(
-                  "p",
-                  {
-                    className: "publication-creation-date subTitle",
-                    style: { color: a.secondaryText },
-                  },
-                  "Published on ",
-                  t.createdAt.split("T")[0]
-                )
-              )
-            )
-          )
-        );
-      }
-      var Mt = a(90);
-      a(263);
-      class At extends r.Component {
+      a(258);
+      var Et = a(90);
+      a(259);
+      class vt extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -7781,7 +7623,7 @@
           );
         }
       }
-      class Zt extends r.Component {
+      class wt extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -7800,7 +7642,7 @@
                   s.a.createElement(
                     "div",
                     { className: "projects-heading-img-div" },
-                    s.a.createElement(At, { theme: e })
+                    s.a.createElement(vt, { theme: e })
                   ),
                   s.a.createElement(
                     "div",
@@ -7828,65 +7670,26 @@
             s.a.createElement(
               "div",
               { className: "repo-cards-div-main" },
-              Mt.data.map((t) => s.a.createElement(wt, { repo: t, theme: e }))
+              Et.data.map((t) => s.a.createElement(yt, { repo: t, theme: e }))
             ),
-            s.a.createElement(W, {
+            s.a.createElement(q, {
               text: "More Projects",
               className: "project-button",
               href: w,
               newTab: !0,
               theme: e,
             }),
-            F.data.length > 0
-              ? s.a.createElement(
-                  "div",
-                  { className: "basic-projects" },
-                  s.a.createElement(
-                    u.Fade,
-                    { bottom: !0, duration: 2e3, distance: "40px" },
-                    s.a.createElement(
-                      "div",
-                      { className: "publications-heading-div" },
-                      s.a.createElement(
-                        "div",
-                        { className: "publications-heading-text-div" },
-                        s.a.createElement(
-                          "h1",
-                          {
-                            className: "publications-heading-text",
-                            style: { color: e.text },
-                          },
-                          S
-                        ),
-                        s.a.createElement(
-                          "p",
-                          {
-                            className: "projects-header-detail-text subTitle",
-                            style: { color: e.secondaryText },
-                          },
-                          T
-                        )
-                      )
-                    )
-                  )
-                )
-              : null,
-            s.a.createElement(
-              "div",
-              { className: "repo-cards-div-main" },
-              F.data.map((t) => s.a.createElement(xt, { pub: t, theme: e }))
-            ),
-            s.a.createElement(he, {
+            s.a.createElement(ie, {
               theme: this.props.theme,
               onToggle: this.props.onToggle,
             }),
-            s.a.createElement(de, { theme: this.props.theme })
+            s.a.createElement(ce, { theme: this.props.theme })
           );
         }
       }
-      var kt = Zt;
-      a(264);
-      class Nt extends r.Component {
+      var xt = wt;
+      a(260);
+      class Mt extends r.Component {
         render() {
           const e = this.props.theme;
           return s.a.createElement(
@@ -7922,12 +7725,12 @@
                 )
               )
             ),
-            s.a.createElement(he, { theme: this.props.theme }),
-            s.a.createElement(de, { theme: this.props.theme })
+            s.a.createElement(ie, { theme: this.props.theme }),
+            s.a.createElement(ce, { theme: this.props.theme })
           );
         }
       }
-      class Dt extends r.Component {
+      class At extends r.Component {
         render() {
           return s.a.createElement(
             h.a,
@@ -7941,11 +7744,11 @@
                 render: (e) =>
                   p
                     ? s.a.createElement(
-                        Ee,
+                        fe,
                         Object.assign({}, e, { theme: this.props.theme })
                       )
                     : s.a.createElement(
-                        pe,
+                        he,
                         Object.assign({}, e, { theme: this.props.theme })
                       ),
               }),
@@ -7953,7 +7756,7 @@
                 path: "/home",
                 render: (e) =>
                   s.a.createElement(
-                    pe,
+                    he,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -7962,7 +7765,7 @@
                 exact: !0,
                 render: (e) =>
                   s.a.createElement(
-                    Le,
+                    Re,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -7970,7 +7773,7 @@
                 path: "/education",
                 render: (e) =>
                   s.a.createElement(
-                    Te,
+                    De,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -7978,7 +7781,7 @@
                 path: "/opensource",
                 render: (e) =>
                   s.a.createElement(
-                    ht,
+                    it,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -7986,7 +7789,7 @@
                 path: "/contact",
                 render: (e) =>
                   s.a.createElement(
-                    Et,
+                    ft,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -7995,7 +7798,7 @@
                   path: "/splash",
                   render: (e) =>
                     s.a.createElement(
-                      Ee,
+                      fe,
                       Object.assign({}, e, { theme: this.props.theme })
                     ),
                 }),
@@ -8003,7 +7806,7 @@
                 path: "/projects",
                 render: (e) =>
                   s.a.createElement(
-                    kt,
+                    xt,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -8011,7 +7814,7 @@
                 path: "*",
                 render: (e) =>
                   s.a.createElement(
-                    Nt,
+                    Mt,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               })
@@ -8019,7 +7822,7 @@
           );
         }
       }
-      const Ut = {
+      const Zt = {
         body: "#EDF9FE",
         text: "#001C55",
         expTxtColor: "#000a12",
@@ -8032,10 +7835,10 @@
         headerColor: "#0E6BA877",
         splashBg: "#001C55",
       };
-      var St;
-      const Tt = Object(V.b)(
-        St ||
-          (St = Object(Q.a)([
+      var kt;
+      const Nt = Object(L.b)(
+        kt ||
+          (kt = Object(P.a)([
             "\n  *,\n  *::after,\n  *::before {\n    box-sizing: border-box;\n  }\n\n  body {\n    align-items: center;\n    background: ",
             ";\n    color: ",
             ";\n    display: flex;\n    // flex-direction: column;\n    // justify-content: center;\n    // height: 100vh;\n    // margin: 0;\n    // padding: 0;\n    font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\n    transition: all 0.25s linear;\n  }",
@@ -8049,15 +7852,15 @@
           return t.text;
         }
       );
-      var Ft = function () {
+      var Dt = function () {
         return s.a.createElement(
-          V.a,
-          { theme: Ut },
+          L.a,
+          { theme: Zt },
           s.a.createElement(
             s.a.Fragment,
             null,
-            s.a.createElement(Tt, null),
-            s.a.createElement("div", null, s.a.createElement(Dt, { theme: Ut }))
+            s.a.createElement(Nt, null),
+            s.a.createElement("div", null, s.a.createElement(At, { theme: Zt }))
           )
         );
       };
@@ -8068,13 +7871,13 @@
             /^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/
           )
       );
-      a(265);
-      const Bt = new m.a();
+      a(261);
+      const Ut = new m.a();
       o.a.render(
         s.a.createElement(
           c.a,
-          { value: Bt },
-          s.a.createElement(n.a, { theme: i.a }, s.a.createElement(Ft, null))
+          { value: Ut },
+          s.a.createElement(n.a, { theme: i.a }, s.a.createElement(Dt, null))
         ),
         document.getElementById("root")
       ),
@@ -8086,4 +7889,4 @@
   ]),
   [[92, 1, 2]],
 ]);
-//# sourceMappingURL=main.af5803e3.chunk.js.map
+//# sourceMappingURL=main.97ffb91c.chunk.js.map
