@@ -346,118 +346,6 @@ const certifications = {
       alt_name: "Cisco Networking Academy",
       color_code: "#4285F499",
     },
-    /*   {
-       title: "Learn to program in C",
-      subtitle: "OpenClassrooms",
-      logo_path: "OpenClassrooms.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1VwKG1k_2evyqFzmTWUFr5iGpY3MYdFVb/view?usp=share_link",
-      alt_name: "OpenClassrooms",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Get started with Linux",
-      subtitle: "OpenClassrooms",
-      logo_path: "OpenClassrooms.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1EmI2SVk2Cav_GDFukCNySf2B-ncwIZdg/view?usp=share_link",
-      alt_name: "OpenClassrooms",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Set up your front-end environment",
-      subtitle: "OpenClassrooms",
-      logo_path: "OpenClassrooms.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1VIJcTte0OrsNp-q3Fb5_NC1wXNL1XNhG/view?usp=share_link",
-      alt_name: "OpenClassrooms",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Build a Full Website using WordPress",
-      subtitle: "Coursera",
-      logo_path: "coursera.png",
-      certificate_link: "https://coursera.org/verify/8UGGLYKSGLPT",
-      alt_name: "Coursera",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Create a modern and professional website with WordPress 5",
-      subtitle: "OpenClassrooms",
-      logo_path: "OpenClassrooms.png",
-      certificate_link:
-        "https://drive.google.com/file/d/15rFPlpZ_numQCEjo2R--gKAYfmA7utGZ/view?usp=share_link",
-      alt_name: "OpenClassrooms",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Create a Profile and Network on LinkedIn",
-      subtitle: "Coursera",
-      logo_path: "coursera.png",
-      certificate_link: "https://coursera.org/verify/5LZSN92ZJGDC",
-      alt_name: "Coursera",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Small Business Marketing Using LinkedIn",
-      subtitle: "Coursera",
-      logo_path: "coursera.png",
-      certificate_link: "https://coursera.org/verify/2W42DWNE54GD",
-      alt_name: "Coursera",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Create a Facebook Business Page",
-      subtitle: "Coursera",
-      logo_path: "coursera.png",
-      certificate_link: "https://coursera.org/verify/YSR62ZP3G5FY",
-      alt_name: "Coursera",
-      color_code: "#4285F499",
-    },
-    {
-      title: "How to Create an Instagram Business Account",
-      subtitle: "Coursera",
-      logo_path: "coursera.png",
-      certificate_link: "https://coursera.org/verify/RSHE247B8JE4",
-      alt_name: "Coursera",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Effective Leadership",
-      subtitle: "HP LIFE",
-      logo_path: "hp-life.svg",
-      certificate_link:
-        "https://www.life-global.org/certificate/cd847f1d-9041-4e0f-94b8-6d9956d7af19",
-      alt_name: "Coursera",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Small Business Skills 101",
-      subtitle: "Alison - Empower Yourself",
-      logo_path: "Alison.svg",
-      certificate_link:
-        "https://drive.google.com/file/d/1-sJ1abt-Ks_Kr5ROKvN1g_zyJhyQo8Ix/view?usp=share_link",
-      alt_name: "Alison",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Build your professional project",
-      subtitle: "OpenClassrooms",
-      logo_path: "OpenClassrooms.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1XaHnIKZ5oNVJx5uUcboFrH30hip3s--6/view?usp=share_link",
-      alt_name: "OpenClassrooms",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Master the fundamentals of Excel",
-      subtitle: "OpenClassrooms",
-      logo_path: "OpenClassrooms.png",
-      certificate_link:
-        "https://drive.google.com/file/d/15JYp5zWbB3cZLa1o_puwQteazLOXYCe1/view?usp=share_link",
-      alt_name: "OpenClassrooms",
-      color_code: "#4285F499",
-    }, */
     {
       title: "Baccalaureate Certificate",
       subtitle: "Ministry of National Education (Morocco)",
@@ -527,14 +415,14 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Python Trainer",
-          company: "Python for CPGE",
-          company_url: "/",
-          logo_path: "Python-for-CPGE.png",
-          duration: "February 2023 - Present",
-          location: "Online",
+          title: "",
+          company: "",
+          company_url: "",
+          logo_path: "",
+          duration: "",
+          location: "",
           description:
-            "I am responsible for the training of students in the use of Python programming language.",
+            "",
           color: "#4285F4",
         },
       ],
